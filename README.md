@@ -30,11 +30,11 @@
 </a>       
 <h1>About Me! 😎</h1>
 
-- 🏛️ ULL (Universidad de La Laguna) Computer engeenering student
+- 🏛️: ULL (Universidad de La Laguna) Computer engeenering student
 - 🌱: Currently focused in software engeenering and project mangements
 - 💻: Familiar with **C++** **C** & **Python**   
 - 😅: Learning **Ruby** & **Java**
-- 🎧: “Some say I create music at my spare time
+- 🎧: Some say I create music at my spare time
 
 ## Contact and extra stuff 🥸
     
