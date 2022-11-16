@@ -25,8 +25,6 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
   
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edujbarrios&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&hide_border=true&username=edujbarrios&hide=Makefilelayout=compact" />
 </a>       
@@ -40,7 +38,7 @@
 
 ## Contact and extra stuff 🥸
     
-<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
+<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 ***Gmail***: eduardojbarriosgarcia@gmail.com 
-<img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />]
+<img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 ***Spotify***: https://sptfy.com/MhKe 
