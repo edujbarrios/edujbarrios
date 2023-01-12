@@ -49,9 +49,6 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
   
- <a href="https://github.com/anuraghazra/github-readme-stats">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&hide_border=true&username=edujbarrios&hide=Makefilelayout=compact" />
 </a>       
 <h1>About Me! 😎</h1>
 
