@@ -22,8 +22,7 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
   
-### Ohhh🥰 Hi there, I'm Eduardo J. Barrios García and this is my github's developer page 🤯
-### Are you ready to check out this mess? 🥵‍☠️
+### Welcome! I'm Eduardo J. Barrios García and this is my github's developer page 🤯
 
 <div>
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
