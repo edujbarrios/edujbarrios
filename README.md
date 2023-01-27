@@ -19,8 +19,7 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
+
   
 ### Welcome! I'm Eduardo J. Barrios García and this is my github's developer page 🤯
 
@@ -45,9 +44,7 @@
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/spainparrot.gif" width ="30" height="30"/>
-  
+
 </a>       
 <h1>About Me! 😎</h1>
 
