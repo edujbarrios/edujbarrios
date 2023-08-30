@@ -50,7 +50,7 @@
 
 - 🏛️: ULL (Universidad de La Laguna) Computer engeenering student
 - 🌱: Currently focused in software engeenering and project mangements
-- 💻: Familiar with **C++** **FRONT-END** **JAVA** & **SWIFT** 
+- 💻: Familiar with ***C++, FRONT-END, JAVA & SWIFT***
 
 ## Contact and extra stuff 🥸
     
