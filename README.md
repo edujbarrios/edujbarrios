@@ -76,6 +76,9 @@
 
   <!-- JavaScript Badge -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  
+  <!-- Julia Badge -->
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia Badge"/>
 
   <!-- LaTeX Badge -->
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge"/>
@@ -125,9 +128,5 @@
             <strong>Gmail:</strong> eduardojbarriosgarcia@gmail.com
         </a>
     </p>
-    
-    -------------------------------------------------------------------------------
-    <!-- EOF: Work in silence and amaze the world with what you accomplish. 😌🚀 -->
-    -------------------------------------------------------------------------------
 
 </div>
