@@ -116,17 +116,4 @@
 </div>
 
 
-# Contact 🥸
-
-<div>
-    <!-- Gmail Badge with Mailto Link -->
-    <a href="mailto:eduardojbarriosgarcia@gmail.com">
-        <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <p style="padding-left: 10px; vertical-align: middle;">
-        <a href="mailto:eduardojbarriosgarcia@gmail.com" style="text-decoration: none; color: black;">
-            <strong>Gmail:</strong> eduardojbarriosgarcia@gmail.com
-        </a>
-    </p>
-
 </div>
