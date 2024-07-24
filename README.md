@@ -50,7 +50,7 @@
 
 ## About Me 🧑‍💻
 
-🏛️ **Computer Engineer** specialized at Software Engineering  
+🏛️ **Computer Engineer** specialized in Software Engineering  
 🌱 **Currently focused on** software engineering and project management, developing various indie projects.
 
 ## 💻 Technologies & Languages
@@ -74,11 +74,53 @@
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
 </div>
 
-## 🔧 Tools & Technologies
+## Frameworks 🛠️
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo Badge"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/Nextra-000000?style=for-the-badge&logo=nextra&logoColor=white" alt="Nextra Badge"/>
+    <img src="https://img.shields.io/badge/Vapor-00BFFF?style=for-the-badge&logo=vapor&logoColor=white" alt="Vapor Badge"/>
+</div>
+
+## Tools & Technologies 🔧
 
 <div align="center">
     <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI Badge"/>
     <img src="https://img.shields.io/badge/Doxygen-015C53?style=for-the-badge&logo=doxygen&logoColor=white" alt="Doxygen Badge"/>
     <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud Badge"/>
 </div>
+
+## Development Tools 🛠️
+
+<div align="center">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode Badge"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA Badge"/>
+    <img src="https://img.shields.io/badge/CLion-00A678?style=for-the-badge&logo=clion&logoColor=white" alt="CLion Badge"/>
+    <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains Badge"/>
+</div>
+
+## Other Skills 🎵
+
+<div align="center">
+    <p>Music Production (5 years) <a href="https://open.spotify.com/intl-es/artist/2C15mEsXxAqiKWKG4skXHY" target="_blank" rel="noopener noreferrer" class="ml-2 text-blue-400 hover:underline">Spotify - EYEMAD</a></p>
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+</div>
+
+## Interests 🌟
+
+<div align="center">
+    <p>📈 Project Management</p>
+    <p>🖥️ Programming in Swift</p>
+    <p>🌐 Frontend Development</p>
+</div>
+
+## Contact 📞
+
+<div align="center">
+    <p>Feel free to reach out via email at <a href="mailto:eduardojbarriosgarcia@gmail.com" class="text-blue-400 hover:underline break-all">eduardojbarriosgarcia@gmail.com</a></p>
+</div>
+
+
 
