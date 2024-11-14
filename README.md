@@ -5,6 +5,7 @@
  I am currently working on my final degree thesis, focusing on developing new **deep learning**-based tools for **glaucoma detection** that aim to be more efficient than existing methods.  
  I’m passionate about **AI**, **prompt engineering**, **data visualization**, and **full-stack development**, always seeking innovative solutions in these fields.
 
+[![](https://visitcount.itsvg.in/api?id=edujbarrios&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ---
 
 ## 🛠️ Technical Stack
