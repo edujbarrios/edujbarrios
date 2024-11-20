@@ -1,6 +1,8 @@
 #  **Eduardo J. Barrios García**
 
- **Computer Engineer** | **Universidad de La Laguna (ULL)**
+![personal_card](social_card.png)
+
+ **Software engineer** | **Universidad de La Laguna (ULL)**
   
  I am currently working on my final degree thesis, focusing on developing new **deep learning**-based tools for **glaucoma detection** that aim to be more efficient than existing methods.  
  I’m passionate about **AI**, **prompt engineering**, **data visualization**, and **full-stack development**, always seeking innovative solutions in these fields.
