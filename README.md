@@ -1,7 +1,5 @@
 #  **Eduardo J. Barrios**
 
-![personal_card](social_card.png)
-
  **Software engineer** | **Universidad de La Laguna (ULL)**
   
  I am currently working on my final degree thesis, focusing on developing new **deep learning**-based tools for **glaucoma detection** that aim to be more efficient than existing methods.  
