@@ -1,4 +1,4 @@
-#  **Eduardo J. Barrios García**
+#  **Eduardo J. Barrios**
 
 ![personal_card](social_card.png)
 
