@@ -22,19 +22,8 @@
 | **Tools**                 | ![SQL Workbench Badge](https://img.shields.io/badge/SQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![JetBrains Badge](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white) ![Xcode Badge](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white) |
 | **CI/CD**                 | ![CircleCI Badge](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)                                                       |
 | **Project Management**    | ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello Badge](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)      |
-| **Operating Systems**     | ![Mac OS Badge](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) (Primary) ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![WSL Badge](https://img.shields.io/badge/WSL-4E9A06?style=flat&logo=linux&logoColor=white) |
+| **Operating Systems**     | ![Mac OS Badge](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) (Primary) ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![WSL Badge](https://img.shields.io/badge/WSL-4E9A06?style=flat&logo=linux&logoColor=white) 
 
----
-
-## 📊 AI and Machine Learning Libraries
-
-| **Library**          | **Description**                                                                                     |
-|----------------------|-----------------------------------------------------------------------------------------------------|
-| ![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) | High-level neural network API for fast experimentation.                       |
-| ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | End-to-end open-source platform for machine learning. |
-| ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | Flexible deep learning platform with dynamic computation graphs.             |
-
----
 
 ## 📬 Contact
 
