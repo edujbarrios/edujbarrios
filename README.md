@@ -2,8 +2,9 @@
 
  **AI & Software engineer** | **Universidad de La Laguna (ULL)**
   
- I am currently focusing on indie projects, If you have any suggestion, feel free to reach me through my email.
- I’m passionate about **AI**, **prompt engineering**, **data visualization**, and **full-stack development**, always seeking innovative solutions in these fields.
+ I’m passionate about **AI**, **CNNs**, **LLMs**, **VLLMs**,  **prompt engineering**, **data visualization**, and **full-stack development**, always seeking innovative solutions in these fields.
+
+I am currently focusing on indie projects, If you have any suggestion, feel free to contact me through email.
 
 [![](https://visitcount.itsvg.in/api?id=edujbarrios&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ---
