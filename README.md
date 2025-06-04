@@ -1,8 +1,8 @@
 #  **Eduardo J. Barrios**
 
- **Software engineer** | **Universidad de La Laguna (ULL)**
+ **AI & Software engineer** | **Universidad de La Laguna (ULL)**
   
- I am currently working on my final degree thesis, focusing on developing new **deep learning**-based tools for **glaucoma detection** that aim to be more efficient than existing methods.  
+ I am currently focusing on indie projects, If you have any suggestion, feel free to reach me through my email.
  I’m passionate about **AI**, **prompt engineering**, **data visualization**, and **full-stack development**, always seeking innovative solutions in these fields.
 
 [![](https://visitcount.itsvg.in/api?id=edujbarrios&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
