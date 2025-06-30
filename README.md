@@ -16,10 +16,8 @@
 
 **I'm always seeking innovative solutions in these fields.**
 
-Currently focusing on indie projects. If you have any suggestion, feel free to contact me through email.
 
-
-## 🛠️ Technical Stack
+## Technical Stack
 
 | 💻 **Category**           | 🔧 **Technologies**                                                                                                      |
 |---------------------------|--------------------------------------------------------------------------------------------------------------------------|
@@ -37,8 +35,11 @@ Currently focusing on indie projects. If you have any suggestion, feel free to c
 | **Operating Systems**     | ![macOS](https://img.shields.io/badge/macOS-004d4d?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-006666?style=for-the-badge&logo=windows&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-008080?style=for-the-badge&logo=linux&logoColor=white) |
 | **Musical DAWs**          | ![FL Studio](https://img.shields.io/badge/FL_Studio-004d4d?style=for-the-badge&logo=image-line&logoColor=white) ![Logic Pro X](https://img.shields.io/badge/Logic_Pro_X-006666?style=for-the-badge&logo=apple&logoColor=white) |
 
-## 📬 Contact
+## Contact
 
+💡 *Currently focusing on indie projects. If you have any suggestion, feel free to contact me through email.*
 📧 [eduardojbarriosgarcia@gmail.com](mailto:eduardojbarriosgarcia@gmail.com)
+
+
 
 
