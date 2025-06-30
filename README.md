@@ -37,8 +37,9 @@
 
 ## Contact
 
-💡 *Currently focusing on indie projects. If you have any suggestion, feel free to contact me through email.*
-📧 [eduardojbarriosgarcia@gmail.com](mailto:eduardojbarriosgarcia@gmail.com)
+*Currently focusing on indie projects. If you have any suggestion, feel free to contact me through email.*
+
+[eduardojbarriosgarcia@gmail.com](mailto:eduardojbarriosgarcia@gmail.com)
 
 
 
