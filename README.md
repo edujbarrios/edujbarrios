@@ -9,12 +9,17 @@
 ![AI](https://img.shields.io/badge/AI-004d4d?style=for-the-badge)
 ![VLLMs](https://img.shields.io/badge/VLLM-006666?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLM-008080?style=for-the-badge)
-![CNNs](https://img.shields.io/badge/CNNs-009999?style=for-the-badge)
+![CNNs](https://img.shields.io/badge/CNN-009999?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-66E6DD?style=for-the-badge&labelColor=000000)
 ![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-8CF0EB?style=for-the-badge&labelColor=000000)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-B2FAF9?style=for-the-badge&labelColor=000000)
 
 **I'm always seeking innovative solutions in these fields.**
+
+To continue exploring AI concepts, I'll begin an **MSc** in October 2025. 🧑‍🎓📚
+
+![MSc Inteligencia Artificial](https://img.shields.io/badge/Artificial_Intelligence-0071CE?style=for-the-badge)
+![Universidad Alfonso X](https://img.shields.io/badge/Universidad_Alfonso_X-UAX-0071CE?style=for-the-badge)
 
 
 ## Technical Stack
