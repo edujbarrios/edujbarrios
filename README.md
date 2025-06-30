@@ -4,7 +4,7 @@
 ![Universidad de La Laguna](https://img.shields.io/badge/Universidad_de_La_Laguna-ULL-5c068c?style=for-the-badge)
 
 
-**I’m passionate about:**
+**I'm always seeking innovative solutions in these fields.**
 
 ![AI](https://img.shields.io/badge/AI-004d4d?style=for-the-badge)
 ![VLLMs](https://img.shields.io/badge/VLLM-006666?style=for-the-badge)
@@ -13,8 +13,6 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-66E6DD?style=for-the-badge&labelColor=000000)
 ![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-8CF0EB?style=for-the-badge&labelColor=000000)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-B2FAF9?style=for-the-badge&labelColor=000000)
-
-**I'm always seeking innovative solutions in these fields.**
 
 To continue exploring AI concepts, I'll begin an **MSc** in October 2025. 🧑‍🎓📚
 
