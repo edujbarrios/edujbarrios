@@ -1,7 +1,7 @@
 #  **Eduardo J. Barrios**
 
 ![AI & Software Engineer](https://img.shields.io/badge/AI_&_Software_Engineer-5c068c?style=for-the-badge)
-![Universidad de La Laguna](https://img.shields.io/badge/Universidad_de_La_Laguna-ULL-5c068c?style=for-the-badge)
+![ULL - Universidad de La Laguna](https://img.shields.io/badge/ULL_-_Universidad_de_La_Laguna-5c068c?style=for-the-badge)
 
 ---
 
@@ -12,9 +12,19 @@ I'm a software engineer passionate about **Artificial Intelligence**, **Language
 In October 2025, I will begin a **Master’s in Artificial Intelligence**. 🧑‍🎓📚
 
 ![MSc Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0071CE?style=for-the-badge)
-![Universidad Alfonso X](https://img.shields.io/badge/Universidad_Alfonso_X-UAX-0071CE?style=for-the-badge)
+![Universidad Alfonso X](https://img.shields.io/badge/UAX_-_Universidad_Alfonso_X-0071CE?style=for-the-badge)
 
 ---
+
+## Main Interests
+![AI](https://img.shields.io/badge/AI-004d4d?style=for-the-badge)
+![VLLMs](https://img.shields.io/badge/VLLM-006666?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLM-008080?style=for-the-badge)
+![CNNs](https://img.shields.io/badge/CNN-009999?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-66E6DD?style=for-the-badge&labelColor=000000)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-8CF0EB?style=for-the-badge&labelColor=000000)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-B2FAF9?style=for-the-badge&labelColor=000000)
+
 
 ## Technical Stack
 
@@ -26,7 +36,7 @@ In October 2025, I will begin a **Master’s in Artificial Intelligence**. 🧑�
 | **Vision Large Language Models**     | ![ChatGPT](https://img.shields.io/badge/ChatGPT-004d4d?style=for-the-badge) ![LLaMA](https://img.shields.io/badge/LLaMA-006666?style=for-the-badge) ![Mistral](https://img.shields.io/badge/Mistral-008080?style=for-the-badge) ![DeepSeek](https://img.shields.io/badge/DeepSeek-009999?style=for-the-badge) ![MoonDream](https://img.shields.io/badge/MoonDream-66E6DD?style=for-the-badge) |
 | **AI Tools**              | ![Keras](https://img.shields.io/badge/Keras-004d4d?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-006666?style=for-the-badge&logo=pytorch&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-008080?style=for-the-badge&logo=python&logoColor=white) ![Unsloth](https://img.shields.io/badge/Unsloth-009999?style=for-the-badge&logo=unsplash&logoColor=000000) |
 | **Data Visualization**    | ![Matplotlib](https://img.shields.io/badge/Matplotlib-004d4d?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-006666?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Main Programming Languages** | ![C++](https://img.shields.io/badge/C++-004d4d?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-006666?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-008080?style=for-the-badge&logo=swift&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-009999?style=for-the-badge&logo=rust&logoColor=000000) ![Julia](https://img.shields.io/badge/Julia-66E6DD?style=for-the-badge&logo=julia&logoColor=000000) ![Javaceitp](https://img.shields.io/badge/Javaceitp-33CCCC?style=for-the-badge&logo=coffeescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-339999?style=for-the-badge&logo=python&logoColor=white) |
+| **Main Programming Languages** | ![C++](https://img.shields.io/badge/C++-004d4d?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-006666?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-007777?style=for-the-badge&logo=swift&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-009999?style=for-the-badge&logo=rust&logoColor=000000) ![Julia](https://img.shields.io/badge/Julia-66E6DD?style=for-the-badge&logo=julia&logoColor=000000) ![JavaScript](https://img.shields.io/badge/JavaScript-8CF0EB?style=for-the-badge&logo=javascript&logoColor=000000) ![Python](https://img.shields.io/badge/Python-B2FAF9?style=for-the-badge&logo=python&logoColor=000000) |
 | **Documentation**         | ![Docusaurus](https://img.shields.io/badge/Docusaurus-004d4d?style=for-the-badge&logo=docusaurus&logoColor=white) ![Doxygen](https://img.shields.io/badge/Doxygen-006666?style=for-the-badge&logo=readthedocs&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-009999?style=for-the-badge&logo=markdown&logoColor=000000) ![Nextra](https://img.shields.io/badge/Nextra-66E6DD?style=for-the-badge&logo=nextra&logoColor=000000) |
 | **Design Tools**          | ![draw.io](https://img.shields.io/badge/draw.io-004d4d?style=for-the-badge&logo=diagrams.net&logoColor=white) ![StarUML](https://img.shields.io/badge/StarUML-006666?style=for-the-badge&logo=staruml&logoColor=white) |
 | **Tools**                 | ![SQL Workbench](https://img.shields.io/badge/SQL_Workbench-004d4d?style=for-the-badge&logo=mysql&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-006666?style=for-the-badge&logo=googlecolab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-008080?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-009999?style=for-the-badge&logo=jetbrains&logoColor=000000) ![Xcode](https://img.shields.io/badge/Xcode-66E6DD?style=for-the-badge&logo=xcode&logoColor=000000) |
