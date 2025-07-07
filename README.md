@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a software engineer passionate about **Artificial Intelligence**, **Language Models**, **software development**, and **project management**. I love building innovative solutions and turning ideas into impactful tools.
+I'm a software engineer passionate about **Artificial Intelligence**, **Language Models**, **software development**, and **project management**. I love building *****innovative solutions***** and turning ideas into *****impactful tools*****.
 
 In October 2025, I will begin a **Master’s in Artificial Intelligence**. 🧑‍🎓📚
 
