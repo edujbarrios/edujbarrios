@@ -7,9 +7,12 @@
 
 ## About Me
 
-I'm a software engineer passionate about **Artificial Intelligence**, **Language Models**, **software development**, and **project management**. I love building *****innovative solutions***** and turning ideas into *****impactful tools*****.
+I'm a **graduated software engineer** passionate about **Artificial Intelligence research**, **Language Models**, **software development**, and **project management**. I enjoy creating **innovative solutions** and transforming ideas into **impactful tools**.
 
-In October 2025, I will begin a **Master’s in Artificial Intelligence**. 🧑‍🎓📚
+My **final degree thesis**, focused on the use and fine-tuning of **Large Language Models (LLMs) for early glaucoma diagnosis**, was awarded a **perfect score of 10/10**.
+
+## Upcoming 
+In **October 2025**, I will begin a **Master’s in Artificial Intelligence**. 🧑‍🎓📚💫
 
 ![MSc Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0071CE?style=for-the-badge)
 ![Universidad Alfonso X](https://img.shields.io/badge/UAX-UNIVERSIDAD_ALFONSO_X-0071CE?style=for-the-badge&labelColor=000000)
@@ -52,6 +55,8 @@ In October 2025, I will begin a **Master’s in Artificial Intelligence**. 🧑�
 *Currently focusing on indie projects. If you have any suggestion, feel free to contact me through email.*
 
 [eduardojbarriosgarcia@gmail.com](mailto:eduardojbarriosgarcia@gmail.com)
+
+![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-%F0%9F%9A%80-8CF0EB?style=for-the-badge&labelColor=1a1a1a)
 
 
 
