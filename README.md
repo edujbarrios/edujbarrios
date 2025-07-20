@@ -1,7 +1,7 @@
 #  **Eduardo J. Barrios**
 
 ![AI & Software Engineer](https://img.shields.io/badge/AI_&_Software_Engineer-5c068c?style=for-the-badge)
-![ULL - Universidad de La Laguna](https://img.shields.io/badge/ULL_-_Universidad_de_La_Laguna-5c068c?style=for-the-badge)
+![ULL - Universidad de La Laguna](https://img.shields.io/badge/ULL-UNIVERSIDAD_DE_LA_LAGUNA-5c068c?style=for-the-badge&labelColor=000000)
 
 ---
 
@@ -12,7 +12,7 @@ I'm a software engineer passionate about **Artificial Intelligence**, **Language
 In October 2025, I will begin a **Master’s in Artificial Intelligence**. 🧑‍🎓📚
 
 ![MSc Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0071CE?style=for-the-badge)
-![Universidad Alfonso X](https://img.shields.io/badge/UAX_-_Universidad_Alfonso_X-0071CE?style=for-the-badge)
+![Universidad Alfonso X](https://img.shields.io/badge/UAX-UNIVERSIDAD_ALFONSO_X-0071CE?style=for-the-badge&labelColor=000000)
 
 ---
 
