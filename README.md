@@ -1,34 +1,22 @@
-#  **Eduardo J. Barrios**
+<div align="center">
 
-![Role](https://img.shields.io/badge/Software_Engineer-ff0011?style=for-the-badge&labelColor=000000)
-![Focus](https://img.shields.io/badge/AI_Researcher-0004ff?style=for-the-badge&labelColor=000000)
+<h1><strong>Eduardo J. Barrios</strong></h1>
+
+<strong style="font-size: 22px;">
+Software Engineer | AI Researcher
+</strong>
+
 
 ## **Education**
 
+| **Degree** | **Institution** | **Status** |
+|---|---|---|
+| **Bachelor in Computer Engineering** | **Universidad de La Laguna (ULL)** | ✅ |
+| **Master in Artificial Intelligence** | **Universidad Alfonso X (UAX)** | ⏳ |
 
-![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-5c068c?style=for-the-badge&logo=computer&logoColor=white)
-![Universidad de La Laguna](https://img.shields.io/badge/Universidad_de_La_Laguna-ULL-000000?style=for-the-badge&labelColor=5c068c)
+## **Main Interests & Skills**
 
-#### Currently:
-![Artificial Intelligence](https://img.shields.io/badge/MSc_Artificial_Intelligence-0071CE?style=for-the-badge&logo=brain&logoColor=white)
-![Universidad Alfonso X](https://img.shields.io/badge/Universidad_Alfonso_X-UAX-000000?style=for-the-badge&labelColor=0071CE)
-
-## Main Interests & Skills
-
-![AI](https://img.shields.io/badge/AI-FFFFFF?style=for-the-badge)
-![Full-Stack](https://img.shields.io/badge/Full--Stack_Dev-004E9A?style=for-the-badge)
-![Data Viz](https://img.shields.io/badge/Data_Visualization-FFCC00?style=for-the-badge)
-
-![Project Management](https://img.shields.io/badge/Project_Management-F7F7F7?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-005FBF?style=for-the-badge)
-![Systems Design](https://img.shields.io/badge/Systems_Design-FFD633?style=for-the-badge)
-
-![LLMs](https://img.shields.io/badge/LLMs-FFFFFF?style=for-the-badge)
-![VLLMs](https://img.shields.io/badge/VLLMs-004E9A?style=for-the-badge)
-![CNNs](https://img.shields.io/badge/CNNs-FFCC00?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-FFFFFF?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-004E9A?style=for-the-badge)
+**AI** | **ML / DL** | **LLMs** | **VLMs** | **CNNs** | **RAG** | **MCP** | **Prompt Engineering** | **Full Stack Development** | **Software Engineering** | **Systems Design** | **Project Management** | **Data Visualization**
 
 ## Tech Stack
 | Category | Technologies |
