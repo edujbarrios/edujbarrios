@@ -1,11 +1,7 @@
-<div align="center">
-
 <h1><strong>Eduardo J. Barrios</strong></h1>
 
-<strong style="font-size: 22px;">
-<h2>Software Engineer | AI Researcher</h2>  
-</strong>
-
+![Software Engineer](https://img.shields.io/badge/SOFTWARE_ENGINEER-003737?style=for-the-badge&labelColor-001F1F&color-006B6B)
+![AI Researcher](https://img.shields.io/badge/AI_RESEARCHER-003F3F?style=for-the-badge&labelColor-002424&color-008080)
 
 ## **Education**
 
@@ -14,7 +10,6 @@
 | **Bachelor in Computer Engineering** | **Universidad de La Laguna (ULL)** | ✅ |
 | **Master in Artificial Intelligence** | **Universidad Alfonso X (UAX)** | ⏳ |
 
-<div align="center">
 
 ## **Main Interest & Skills**
 
