@@ -11,7 +11,7 @@
 | **Master in Artificial Intelligence** | **Universidad Alfonso X (UAX)** | ⏳ |
 
 
-## **Main Interest & Skills**
+## **Main Interests & Skills**
 
 <p>
 <strong>AI</strong> | <strong>ML / DL</strong> | <strong>LLMs</strong> | <strong>VLMs</strong> | <strong>CNNs</strong> | <strong>RAG</strong> | <strong>MCP</strong> | <strong>Prompt Engineering</strong>
