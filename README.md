@@ -40,30 +40,5 @@
 | **Deployment** | ![Docker](https://img.shields.io/badge/Docker-004d4d?style=for-the-badge) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-004d4d?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-006060?style=for-the-badge) ![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-007373?style=for-the-badge) |
 
-
-## Publications 
-
-Check my [ORCID Profile](https://orcid.org/0009-0004-7805-6386)
-
-## Contact
-
-[eduardojbarriosgarcia@gmail.com](mailto:eduardojbarriosgarcia@gmail.com)
-
 ![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-%F0%9F%9A%80-8CF0EB?style=for-the-badge&labelColor=1a1a1a)
 
-
-
-<!--
-**edujbarrios/edujbarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
