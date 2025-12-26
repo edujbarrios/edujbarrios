@@ -74,4 +74,4 @@ flowchart LR
 
 ## Featured projects
 
-This readme section is under design
+See them below :)
