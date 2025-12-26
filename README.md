@@ -1,28 +1,34 @@
 <h1><strong>Eduardo J. Barrios</strong></h1>
 
-![Software Engineer](https://img.shields.io/badge/SOFTWARE_ENGINEER-003737?style=for-the-badge&labelColor-001F1F&color-006B6B)
-![AI Researcher](https://img.shields.io/badge/AI_RESEARCHER-003F3F?style=for-the-badge&labelColor-002424&color-008080)
 
-## **Education**
+AI Engineer and researcher with a strong **software engineering mindset**, focused on designing and building
+**production-ready AI systems** that solve real-world problems. I have wide experience at:
 
-| **Degree** | **Institution** | **Status** |
-|---|---|---|
-| **Bachelor in Computer Engineering** | **Universidad de La Laguna (ULL)** | ✅ |
-| **Master in Artificial Intelligence** | **Universidad Alfonso X (UAX)** | ⏳ |
-
-
-## **Main Interests & Skills**
-
-<p>
-<strong>AI</strong> | <strong>ML / DL</strong> | <strong>LLMs</strong> | <strong>VLMs</strong> | <strong>CNNs</strong> | <strong>RAG</strong> | <strong>MCP</strong> | <strong>Prompt Engineering</strong>
-<br>
-<strong>Full Stack Development</strong> | <strong>Software Engineering</strong> | <strong>Systems Design</strong>
-<br>
-<strong>Project Management</strong> | <strong>Data Visualization</strong>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM%20Fine%20Tuning-004d4d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Architectures-006060?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-007373?style=for-the-badge" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/End--to--End%20ML%20Pipelines-008686?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-009999?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-00acac?style=for-the-badge" />
+</p>
 
+
+- I also like working with $\color{Aquamarine}{Frontend\ Development}$ and:
+
+ ```mermaid
+pie
+"**Data Visualization**" : 33
+"Audio Generation Models (Music & Speech)" : 33
+"Medical Imaging Model Training" : 33
+```
+
+[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Contact%20Me-1fa4a9?style=for-the-badge&labelColor=0b3c3f)](mailto:eduardojbarriosgarcia@gmail.com)
+
+## Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -40,5 +46,32 @@
 | **Deployment** | ![Docker](https://img.shields.io/badge/Docker-004d4d?style=for-the-badge) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-004d4d?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-006060?style=for-the-badge) ![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-007373?style=for-the-badge) |
 
-![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-%F0%9F%9A%80-8CF0EB?style=for-the-badge&labelColor=1a1a1a)
+## Education
 
+```mermaid
+flowchart LR
+  %% Styles aligned with Tech Stack palette
+  classDef focus fill:#004d4d,stroke:#4dffff,stroke-width:2px,color:#4dffff;
+  classDef core fill:#006060,stroke:#4dffff,stroke-width:1px,color:#FFFFFF;
+  classDef mid  fill:#007373,stroke:#4dffff,stroke-width:1px,color:#FFFFFF;
+  classDef uni  fill:#009999,stroke:#4dffff,stroke-width:1px,color:#FFFFFF;
+  classDef statusDone fill:#4dffff,stroke:#006060,stroke-width:1px,color:#003333;
+  classDef statusProg fill:#80ffff,stroke:#006060,stroke-width:1px,color:#003333;
+
+  EDU["<b>Education</b>"]:::focus
+
+  BSC["<b>Bachelor in Computer Engineering</b><br/><b>Mention in Software Engineering</b>"]:::core
+  BSC_UNI["<b>Universidad de La Laguna (ULL)</b>"]:::uni
+  DONE["<b>Completed</b> ✅"]:::statusDone
+
+  MSC["<b>Master in Artificial Intelligence</b>"]:::mid
+  MSC_UNI["<b>Universidad Alfonso X (UAX)</b>"]:::uni
+  PROG["<b>In progress</b> ⏳"]:::statusProg
+
+  EDU --> BSC --> BSC_UNI --> DONE
+  EDU --> MSC --> MSC_UNI --> PROG
+```
+
+## Featured projects
+
+This readme section is under design
