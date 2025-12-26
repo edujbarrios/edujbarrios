@@ -26,8 +26,6 @@ pie
 "Medical Imaging Model Training" : 33
 ```
 
-[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Contact%20Me-1fa4a9?style=for-the-badge&labelColor=0b3c3f)](mailto:eduardojbarriosgarcia@gmail.com)
-
 ## Tech Stack
 
 | Category | Technologies |
