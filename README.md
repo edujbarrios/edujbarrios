@@ -1,8 +1,12 @@
 <h1><strong>Eduardo J. Barrios</strong></h1>
 
+AI Engineer and researcher currently pursuing an **MSc in Artificial Intelligence**, with a strong
+**software engineering mindset**. I focus on designing and building
+**production-ready AI systems** that address real-world problems.
 
-AI Engineer and researcher with a strong **software engineering mindset**, focused on designing and building
-**production-ready AI systems** that solve real-world problems. I have wide experience at:
+<p align="center">
+  <strong>I have hands-on experience in:  </strong>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM%20%2F%20VLM%20Fine%20Tuning-004d4d?style=for-the-badge" />
@@ -16,14 +20,30 @@ AI Engineer and researcher with a strong **software engineering mindset**, focus
   <img src="https://img.shields.io/badge/System%20Design-00acac?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <strong>
+    I also like working with
+    <span> $\color{Aquamarine}{Frontend\ Development}$ </span>
+    and:
+  </strong>
+</p>
 
-- I also like working with $\color{Aquamarine}{Frontend\ Development}$ and:
 
  ```mermaid
-pie
-"**Data Visualization**" : 33
-"Audio Generation Models (Music & Speech)" : 33
-"Medical Imaging Model Training" : 33
+flowchart LR
+  %% Turquoise palette
+  classDef block fill:#006060,stroke:#4dffff,stroke-width:1.5px,color:#FFFFFF;
+  classDef blockAlt fill:#007373,stroke:#4dffff,stroke-width:1.5px,color:#FFFFFF;
+  classDef blockLight fill:#009999,stroke:#4dffff,stroke-width:1.5px,color:#FFFFFF;
+
+  %% Blocks in a single row
+  DV["<b>Data</b><br/>Visualization"]:::block
+  AUDIO["<b>Audio Generation Models</b><br/>(Music & Speech)"]:::blockAlt
+  MED["<b>Medical Imaging</b><br/>Model Training"]:::blockLight
+
+  %% Force same row layout
+  DV --- AUDIO --- MED
+
 ```
 
 ## Tech Stack
@@ -43,32 +63,6 @@ pie
 | **CI/CD** | ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-004d4d?style=for-the-badge) ![CircleCI](https://img.shields.io/badge/CircleCI-006060?style=for-the-badge) ![SonarCloud](https://img.shields.io/badge/SonarCloud-007373?style=for-the-badge) |
 | **Deployment** | ![Docker](https://img.shields.io/badge/Docker-004d4d?style=for-the-badge) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-004d4d?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-006060?style=for-the-badge) ![MySQL_Workbench](https://img.shields.io/badge/MySQL_Workbench-007373?style=for-the-badge) |
-
-## Education
-
-```mermaid
-flowchart LR
-  %% Styles aligned with Tech Stack palette
-  classDef focus fill:#004d4d,stroke:#4dffff,stroke-width:2px,color:#4dffff;
-  classDef core fill:#006060,stroke:#4dffff,stroke-width:1px,color:#FFFFFF;
-  classDef mid  fill:#007373,stroke:#4dffff,stroke-width:1px,color:#FFFFFF;
-  classDef uni  fill:#009999,stroke:#4dffff,stroke-width:1px,color:#FFFFFF;
-  classDef statusDone fill:#4dffff,stroke:#006060,stroke-width:1px,color:#003333;
-  classDef statusProg fill:#80ffff,stroke:#006060,stroke-width:1px,color:#003333;
-
-  EDU["<b>Education</b>"]:::focus
-
-  BSC["<b>Bachelor in Computer Engineering</b><br/><b>Mention in Software Engineering</b>"]:::core
-  BSC_UNI["<b>Universidad de La Laguna (ULL)</b>"]:::uni
-  DONE["<b>Completed</b> ✅"]:::statusDone
-
-  MSC["<b>Master in Artificial Intelligence</b>"]:::mid
-  MSC_UNI["<b>Universidad Alfonso X (UAX)</b>"]:::uni
-  PROG["<b>In progress</b> ⏳"]:::statusProg
-
-  EDU --> BSC --> BSC_UNI --> DONE
-  EDU --> MSC --> MSC_UNI --> PROG
-```
 
 ## Featured projects
 
