@@ -2,23 +2,25 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=4DFFFF&center=true&vCenter=true&width=520&lines=AI+Engineer+%26+Researcher;Building+Production-Ready+AI+Systems;MSc+in+Artificial+Intelligence;Full-Stack+AI+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=4DFFFF&center=true&vCenter=true&width=650&lines=AI+Engineer;Studying+a+MSc+in+Artificial+Intelligence;Computer+Engineering+Graduate;Mention+in+Software+Engineering"
   />
 </p>
 
+
+
 <p align="center">
-  <strong>I have hands-on experience in:  </strong>
+  <strong>I have hands-on experience in:</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM%20Fine%20Tuning-004d4d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Architectures-006060?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20APIs-007373?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-004d4d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM%20Fine%20Tuning-006060?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Architectures-007373?style=for-the-badge" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/End--to--End%20ML%20Pipelines-008686?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-009999?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20AI%20Systems-009999?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System%20Design-00acac?style=for-the-badge" />
 </p>
 
