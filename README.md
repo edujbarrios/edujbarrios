@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Computer Engineer</strong> | <strong>Software Engineer</strong>
   <br />
-  Graduated at <em>Universidad de La Laguna</em> •  🚀 Evolving into <strong>AI Engineering</strong>
+ 📜 Graduated at <em>Universidad de La Laguna</em> •  🚀 Evolving into <strong>AI Engineering</strong>
   <br />
   🎓 Now studying a <strong>MSc in Artificial Intelligence</strong>
 </p>
@@ -73,7 +73,11 @@
 
 <div align="center">
  <strong>📒 Jupyter Notebook lover • 📘 Quarto enthusiast • 🦖 Docusaurus expert • 🐍 Jinja templating addict</strong>
-</div
+</div>
+
+<div align="center">
+  <strong>🎧 Beyond the code I'm a <a href="https://open.spotify.com/intl-es/artist/2C15mEsXxAqiKWKG4skXHY"> Music Producer</a> • 🎼 Mixing engineer </strong>
+</div>
 
 
 
