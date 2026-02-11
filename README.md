@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋 I'm Eduardo J. Barrios</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=4DFFFF&center=true&vCenter=true&width=650&lines=AI+Engineer;Studying+a+MSc+in+Artificial+Intelligence;Computer+Engineering+Graduate;Mention+in+Software+Engineering"
-  />
+  <strong>Computer Engineer</strong> | <strong>Software Engineer</strong>
+  <br />
+  Graduated at <em>Universidad de La Laguna</em> •  🚀 Evolving into <strong>AI Engineering</strong>
+  <br />
+  🎓 Now studying a <strong>MSc in Artificial Intelligence</strong>
 </p>
-
-
 
 <p align="center">
   <strong>I have hands-on experience in:</strong>
@@ -24,14 +24,11 @@
   <img src="https://img.shields.io/badge/System%20Design-00acac?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <strong>
-    I also like working with
-    <span> $\color{Aquamarine}{Frontend\ Development}$ </span>
-    and:
-  </strong>
-</p>
 
+<div align="center">
+  I also like working with <b><i>Frontend Development</i></b> and:
+</div>
+</div>
 
 <div align="center">
 
@@ -54,10 +51,6 @@
 </div>
 
 <div align="center">
- <strong>📒 Jupyter Notebook lover • 📘 Quarto enthusiast </strong>
-</div>
-
-<div align="center">
 
 
 ## My Tech Stack Includes...
@@ -70,12 +63,17 @@
 <img src="https://skillicons.dev/icons?i=pytorch,react,docker&theme=dark" />
 </p>
 
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=windows,apple&theme=dark" />
 </p>
 
+<div align="center">
+  <strong>🤖 LLM & VLM Engineer • 🧠 Multimodal Model Strategist</strong>
+</div>
 
+<div align="center">
+ <strong>📒 Jupyter Notebook lover • 📘 Quarto enthusiast • 🦖 Docusaurus expert • 🐍 Jinja templating addict</strong>
+</div
 
 
 
