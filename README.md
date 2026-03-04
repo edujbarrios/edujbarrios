@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About (expand)
+## 🧠 About
 
 <details>
   <summary><b>AI Engineering Identity</b></summary>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 What I Build (expand)
+## 🚀 What I Build
 
 <details>
   <summary><b>Core Expertise</b></summary>
@@ -64,7 +64,7 @@
 
 ---
 
-## 💻 Tech Stack (expand)
+## 💻 Tech Stack
 
 <details>
   <summary><b>Languages</b></summary>
@@ -125,7 +125,7 @@
 
 ---
 
-## 🎧 Beyond the Code (expand)
+## 🎧 Beyond the Code
 
 <details>
   <summary><b>Creative Side</b></summary>
@@ -146,7 +146,7 @@
 
 ---
 
-## 🖥 Environment (expand)
+## 🖥 Environment 
 
 <details>
   <summary><b>OS & Development</b></summary>
