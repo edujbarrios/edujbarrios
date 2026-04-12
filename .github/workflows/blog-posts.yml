@@ -1,7 +1,7 @@
 name: Latest blog posts
 on:
   schedule:
-    # Runs every two weeks (1st and 15th of each month at 00:00 UTC)
+    # Runs twice a month (1st and 15th of each month at 00:00 UTC)
     - cron: '0 0 1,15 * *'
   workflow_dispatch:
 
