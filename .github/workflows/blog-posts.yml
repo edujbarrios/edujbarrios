@@ -20,5 +20,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://edujbarrios.github.io/blog/index.xml"
+          feed_list: "https://edujbarrios.com/blog/index.xml"
           max_post_count: 5
