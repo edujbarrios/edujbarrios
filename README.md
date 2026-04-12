@@ -125,14 +125,9 @@
 
 ---
 
-## 📝 Latest Activity
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [edujbarrios pushed edujbarrios](https://github.com/edujbarrios/edujbarrios/compare/537972bc5d...563a19a44b)
-- [edujbarrios pushed edujbarrios](https://github.com/edujbarrios/edujbarrios/compare/7742fb2b92...537972bc5d)
-- [edujbarrios deleted](https://github.com/edujbarrios/edujbarrios/compare/2a0e370a74...0000000000)
-- [edujbarrios pushed edujbarrios](https://github.com/edujbarrios/edujbarrios/compare/53346ade69...7742fb2b92)
-- [edujbarrios deleted](https://github.com/edujbarrios/edujbarrios/compare/d71f4977bf...0000000000)
 <!-- BLOG-POST-LIST:END -->
 
 ---
