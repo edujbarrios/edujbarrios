@@ -128,6 +128,8 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Notebook Engine for C, and the Potential Is Incredible](https://edujbarrios.com/blog/c-notebook-engine-potential)
+- [Nextra vs Docusaurus - Which Documentation Framework is Right for You?](https://edujbarrios.com/blog/Nextra-vs-Docusaurus)
 <!-- BLOG-POST-LIST:END -->
 
 ---
