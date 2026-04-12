@@ -125,7 +125,7 @@
 
 ---
 
-## 📝 Check My Latest Blog Posts
+## 📝 Latest Activity
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
