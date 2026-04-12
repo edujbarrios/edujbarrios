@@ -1,4 +1,5 @@
 name: Latest blog posts
+
 on:
   push:
     paths:
@@ -6,7 +7,7 @@ on:
       - "README.md"
   schedule:
     # Runs twice a month (1st and 15th of each month at 00:00 UTC)
-    - cron: '0 0 1,15 * *'
+    - cron: "0 0 1,15 * *"
   workflow_dispatch:
 
 permissions:
@@ -18,8 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Replace this URL with your Docusaurus blog RSS feed (e.g. https://your-site.com/blog/rss.xml)
-          feed_list: "https://edujbarrios.github.io/blog/rss.xml"
+          feed_list: "https://edujbarrios.com/blog/rss.xml"
           max_post_count: 5
