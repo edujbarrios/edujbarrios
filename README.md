@@ -125,6 +125,13 @@
 
 ---
 
+## 📝 Check My Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🎧 Beyond the Code
 
 <details>
