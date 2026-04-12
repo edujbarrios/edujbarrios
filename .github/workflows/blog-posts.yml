@@ -1,5 +1,9 @@
 name: Latest blog posts
 on:
+  push:
+    paths:
+      - ".github/workflows/blog-posts.yml"
+      - "README.md"
   schedule:
     # Runs twice a month (1st and 15th of each month at 00:00 UTC)
     - cron: '0 0 1,15 * *'
