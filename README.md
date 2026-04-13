@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00acac&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d4d,50:008080,100:40E0D0&height=140&section=header"/>
 </p>
 
 <h1 align="center">Hi there 👋 I'm Eduardo J. Barrios</h1>
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20%26%20VLM-006060?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-007373?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20AI-009999?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps%20Pipelines-00acac?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20%26%20VLM-004d4d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-006666?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20AI-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps%20Pipelines-40E0D0?style=for-the-badge&labelColor=004d4d" />
 </p>
 
 ---
@@ -50,14 +50,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-004d4d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM%20Fine%20Tuning-006060?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Architectures-007373?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM%20Fine%20Tuning-006666?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Architectures-008080?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/End--to--End%20ML%20Pipelines-008686?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20AI%20Systems-009999?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-00acac?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/End--to--End%20ML%20Pipelines-40E0D0?style=for-the-badge&labelColor=004d4d" />
+  <img src="https://img.shields.io/badge/Full--Stack%20AI%20Systems-66E6DD?style=for-the-badge&labelColor=006666" />
+  <img src="https://img.shields.io/badge/System%20Design-8CF0EB?style=for-the-badge&labelColor=008080" />
 </p>
 
 </details>
@@ -177,5 +177,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00acac&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,50:008080,100:004d4d&height=140&section=footer"/>
 </p>
