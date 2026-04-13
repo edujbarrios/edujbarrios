@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong> • MSc Student in <strong>Artificial Intelligence</strong><br/>
-  Building <strong>LLM/VLM</strong> + <strong>RAG</strong> systems and end-to-end AI products.
+  I design, fine-tune, and deploy intelligent systems powered by LLMs and Vision-Language Models.
 </p>
 
 <p align="center">
@@ -16,51 +16,9 @@
   <img src="https://img.shields.io/badge/MLOps%20Pipelines-40E0D0?style=for-the-badge&labelColor=004d4d" />
 </p>
 
----
-
-## 🧠 About
-
-<details>
-  <summary><b>AI Engineering Identity</b></summary>
-
-<br/>
-
-<p align="center">
-  🤖 <strong>LLM & VLM Engineer</strong> · 🧠 <strong>Multimodal Model Strategist</strong>
-</p>
-
-<p align="center">
-  I design, fine-tune, and deploy intelligent systems powered by <strong>LLMs</strong> and <strong>Vision-Language Models</strong>.
-</p>
-
 <p align="center">
   <b>Focus:</b> Prompt Engineering · Fine-Tuning · RAG · ML Pipelines · Full-Stack AI · System Design
 </p>
-
-</details>
-
----
-
-## 🚀 What I Build
-
-<details>
-  <summary><b>Core Expertise</b></summary>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-004d4d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM%20Fine%20Tuning-006666?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Architectures-008080?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/End--to--End%20ML%20Pipelines-40E0D0?style=for-the-badge&labelColor=004d4d" />
-  <img src="https://img.shields.io/badge/Full--Stack%20AI%20Systems-66E6DD?style=for-the-badge&labelColor=006666" />
-  <img src="https://img.shields.io/badge/System%20Design-8CF0EB?style=for-the-badge&labelColor=008080" />
-</p>
-
-</details>
 
 ---
 
