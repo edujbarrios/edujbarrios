@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong> • MSc Student in <strong>Artificial Intelligence</strong><br/>
-  I design, fine-tune, and deploy intelligent systems powered by LLMs and Vision-Language Models.
+  I build and deploy intelligent AI systems powered by LLMs and Vision-Language Models—pushing the boundaries of what machines can understand and do.
 </p>
 
 <p align="center">
@@ -17,9 +17,8 @@
 </p>
 
 <p align="center">
-  <b>Focus:</b> Prompt Engineering · Fine-Tuning · RAG · ML Pipelines · Full-Stack AI · System Design
+  <b>Focus:</b> Prompt Engineering · Fine-Tuning · System Design · Model Deployment · Model Evaluation
 </p>
-
 ---
 
 ## 💻 Tech Stack
