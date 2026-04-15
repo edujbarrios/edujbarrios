@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong> • MSc Student in <strong>Artificial Intelligence</strong><br/>
-  I build and deploy intelligent AI systems powered by LLMs and Vision-Language Models—pushing the boundaries of what machines can understand and do.
+  I build and deploy intelligent AI systems powered by LLMs and Vision-Language Models while pushing the boundaries of what machines can understand and do.
 </p>
 
 <p align="center">
