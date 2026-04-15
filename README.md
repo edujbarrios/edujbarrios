@@ -16,11 +16,6 @@
   <img src="https://img.shields.io/badge/MLOps%20Pipelines-40E0D0?style=for-the-badge&labelColor=004d4d" />
 </p>
 
-<p align="center">
-  <b>Focus:</b> Prompt Engineering · Fine-Tuning · System Design · Model Deployment · Model Evaluation
-</p>
----
-
 ## 💻 Tech Stack
 
 <details>
