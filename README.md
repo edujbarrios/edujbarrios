@@ -6,14 +6,12 @@
 
 <p align="center">
   <strong>Software Engineer</strong> • MSc Student in <strong>Artificial Intelligence</strong><br/>
-  I build and deploy intelligent AI systems powered by LLMs and Vision-Language Models while pushing the boundaries of what machines can understand and do.
+  I build and deploy intelligent AI systems powered by LLMs and Vision-Language Models, exploring the limits of what machines can understand and achieve.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20%26%20VLM-004d4d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-006666?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20AI-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps%20Pipelines-40E0D0?style=for-the-badge&labelColor=004d4d" />
+  <strong>Focus:</strong><br/>
+  Prompt Engineering • RAG Systems • Model Fine-Tuning & Benchmarking • Open Source Developer Tools
 </p>
 
 ## 💻 Tech Stack
@@ -95,12 +93,12 @@
 <br/>
 
 <p align="center">
-  🎛 <strong>Music Producer</strong> · 🎼 Mixing Engineer · 🎹 Exploring AI-driven audio systems
+  <strong>I'm a Music Producer with 7+ years of experience and global influence:</strong><br/>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/intl-es/artist/2C15mEsXxAqiKWKG4skXHY">
-    🎵 Listen on Spotify
+  <a href="https://www.edujbarrios.com/music">
+    🎵 Listen!
   </a>
 </p>
 
