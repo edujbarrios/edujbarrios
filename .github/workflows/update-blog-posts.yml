@@ -1,0 +1,27 @@
+name: Update Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every Monday at 00:00 UTC
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest blog posts and update README
+        uses: gautamkrishnar/blog-post-workflow@1.9.6
+        with:
+          feed_list: "https://edujbarrios.com/rss.xml"
+          max_post_count: 5
+          readme_path: "./README.md"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "docs: update latest blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
