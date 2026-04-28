@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Fetch latest blog posts and update README
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@1.9.6
         with:
           feed_list: "https://edujbarrios.com/rss.xml"
           max_post_count: 5
