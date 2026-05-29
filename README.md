@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="./images/banner.png"
+    src="./images/banner.png.PNG"
     alt="Eduardo J. Barrios Banner"
     width="100%"
   />
