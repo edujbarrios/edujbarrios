@@ -5,13 +5,20 @@
 <h1 align="center">Hi there 👋 I'm Eduardo J. Barrios</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> • MSc Student in <strong>Artificial Intelligence</strong><br/>
-  I build and deploy intelligent AI systems powered by LLMs and Vision-Language Models, exploring the limits of what machines can understand and achieve.
+  <strong>Software Engineer</strong> • MSc Student in <strong>Artificial Intelligence</strong>
+</p>
+
+<p align="center">
+  <img
+    src="./images/banner.png"
+    alt="Eduardo J. Barrios Banner"
+    width="100%"
+  />
 </p>
 
 <p align="center">
   <strong>Focus:</strong><br/>
-  Prompt Engineering • RAG Systems • Model Fine-Tuning & Benchmarking • Open Source Developer Tools
+  Multi-Agent Systems • Vision-Language Models • AI Evaluation • Open Source
 </p>
 
 ## 💻 Tech Stack
