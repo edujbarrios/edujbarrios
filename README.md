@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-004d4d?style=for-the-badge&labelColor=003f3f" alt="Software Engineer"/>
-  <img src="https://img.shields.io/badge/MSc%20Student%20in%20Artificial%20Intelligence-00a3a3?style=for-the-badge&labelColor=008b8b" alt="MSc Student in Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/MSc%20Student%20in%20Artificial%20Intelligence-004d4d?style=for-the-badge&labelColor=003f3f" alt="MSc Student in Artificial Intelligence"/>
 </p>
 
 <p align="center">
