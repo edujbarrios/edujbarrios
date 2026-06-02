@@ -5,7 +5,8 @@
 <h1 align="center">Hi there 👋 I'm Eduardo J. Barrios</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong> • MSc Student in <strong>Artificial Intelligence</strong>
+  <img src="https://img.shields.io/badge/Software%20Engineer-004d4d?style=for-the-badge&labelColor=003f3f" alt="Software Engineer"/>
+  <img src="https://img.shields.io/badge/MSc%20Student%20in%20Artificial%20Intelligence-00a3a3?style=for-the-badge&labelColor=008b8b" alt="MSc Student in Artificial Intelligence"/>
 </p>
 
 <p align="center">
@@ -16,10 +17,15 @@
   />
 </p>
 
+<h2 align="center">Focus 🧐 </h2>
 <p align="center">
-  <strong>Focus:</strong><br/>
-  Multi-Agent Systems • Vision-Language Models • AI Evaluation • Open Source
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-004d4d?style=for-the-badge&labelColor=003f3f" alt="Multi-Agent Systems"/>
+  <img src="https://img.shields.io/badge/AI%20Evaluation-007070?style=for-the-badge&labelColor=005c5c" alt="AI Evaluation"/>
+  <img src="https://img.shields.io/badge/LLMs%2FVLMs-00a3a3?style=for-the-badge&labelColor=008b8b" alt="LLMs/VLMs"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Tools-007070?style=for-the-badge&labelColor=005c5c" alt="Open Source Tools"/>
+  <img src="https://img.shields.io/badge/Indie%20Research%20Projects-004d4d?style=for-the-badge&labelColor=003f3f" alt="Indie Research Projects"/>
 </p>
+
 
 ## 💻 Tech Stack
 
