@@ -9,15 +9,8 @@
   <img src="https://img.shields.io/badge/MSc%20Student%20in%20Artificial%20Intelligence-004d4d?style=for-the-badge&labelColor=003f3f" alt="MSc Student in Artificial Intelligence"/>
 </p>
 
-<p align="center">
-  <img
-    src="./images/banner.png.PNG"
-    alt="Eduardo J. Barrios Banner"
-    width="100%"
-  />
-</p>
 
-<h2 align="center">Focus 🧐 </h2>
+<h2 align="center">My Current Focus 🧐 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-004d4d?style=for-the-badge&labelColor=003f3f" alt="Multi-Agent Systems"/>
   <img src="https://img.shields.io/badge/AI%20Evaluation-007070?style=for-the-badge&labelColor=005c5c" alt="AI Evaluation"/>
