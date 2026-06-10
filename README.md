@@ -1,24 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d4d,50:008080,100:40E0D0&height=140&section=header"/>
+  <img src="images/banner.png" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi there 👋 I'm Eduardo J. Barrios</h1>
+<h2 align="center">My Current Focus 🧐</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-004d4d?style=for-the-badge&labelColor=003f3f" alt="Software Engineer"/>
-  <img src="https://img.shields.io/badge/MSc%20Student%20in%20Artificial%20Intelligence-004d4d?style=for-the-badge&labelColor=003f3f" alt="MSc Student in Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Software%20Engineer-154f4f?style=for-the-badge&labelColor=123f40" alt="Software Engineer"/>
+  <img src="https://img.shields.io/badge/MSc%20AI%20Student-2b7370?style=for-the-badge&labelColor=1d5f5d" alt="MSc AI Student"/>
 </p>
 
-
-<h2 align="center">My Current Focus 🧐 </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-004d4d?style=for-the-badge&labelColor=003f3f" alt="Multi-Agent Systems"/>
-  <img src="https://img.shields.io/badge/AI%20Evaluation-007070?style=for-the-badge&labelColor=005c5c" alt="AI Evaluation"/>
-  <img src="https://img.shields.io/badge/LLMs%2FVLMs-00a3a3?style=for-the-badge&labelColor=008b8b" alt="LLMs/VLMs"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Tools-007070?style=for-the-badge&labelColor=005c5c" alt="Open Source Tools"/>
-  <img src="https://img.shields.io/badge/Indie%20Research%20Projects-004d4d?style=for-the-badge&labelColor=003f3f" alt="Indie Research Projects"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20AI-154f4f?style=for-the-badge&labelColor=123f40" alt="Multi-Agent AI"/>
+  <img src="https://img.shields.io/badge/AI%20Evaluation-2b7370?style=for-the-badge&labelColor=1d5f5d" alt="AI Evaluation"/>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20VLMs-52cfc7?style=for-the-badge&labelColor=37aaa4" alt="LLMs & VLMs"/>
+  <img src="https://img.shields.io/badge/Open%20Source-8edbd6?style=for-the-badge&labelColor=52cfc7" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Indie%20Research-b9eeee?style=for-the-badge&labelColor=8edbd6" alt="Indie Research"/>
 </p>
-
 
 ## 💻 Tech Stack
 
@@ -132,7 +129,3 @@
 </details>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:40E0D0,50:008080,100:004d4d&height=140&section=footer"/>
-</p>
