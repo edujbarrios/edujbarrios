@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/banner.png" alt="Banner"/>
+  <img src="images/Banner.png" alt="Banner"/>
 </p>
 
-<h2 align="center">My Current Focus 🧐</h2>
+<h2 align="center">What I Am & What I Build 🧠</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-154f4f?style=for-the-badge&labelColor=123f40" alt="Software Engineer"/>
@@ -12,8 +12,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Multi--Agent%20AI-154f4f?style=for-the-badge&labelColor=123f40" alt="Multi-Agent AI"/>
   <img src="https://img.shields.io/badge/AI%20Evaluation-2b7370?style=for-the-badge&labelColor=1d5f5d" alt="AI Evaluation"/>
-  <img src="https://img.shields.io/badge/LLMs%20%26%20VLMs-52cfc7?style=for-the-badge&labelColor=37aaa4" alt="LLMs & VLMs"/>
-  <img src="https://img.shields.io/badge/Open%20Source-8edbd6?style=for-the-badge&labelColor=52cfc7" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/LLMs-3aa7a1?style=for-the-badge&labelColor=2b7370" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/VLMs-5fc7c1?style=for-the-badge&labelColor=3aa7a1" alt="VLMs"/>
+  <img src="https://img.shields.io/badge/Dev%20Tools-8edbd6?style=for-the-badge&labelColor=52cfc7" alt="Dev Tools"/>
   <img src="https://img.shields.io/badge/Indie%20Research-b9eeee?style=for-the-badge&labelColor=8edbd6" alt="Indie Research"/>
 </p>
 
@@ -82,10 +83,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I Created a Complete Educational Guide on AI Music Generation](https://edujbarrios.com/blog/neural-audio-theory-complete-guide)
+- [I Built My Own Documentation Site Builder — Here's Why (and How)](https://www.edujbarrios.com/blog/building-ncmds-documentation-site-builder)
 - [I Built a Notebook Engine for C, and the Potential Is Incredible](https://edujbarrios.com/blog/c-notebook-engine-potential)
-- [Nextra vs Docusaurus - Which Documentation Framework is Right for You?](https://edujbarrios.com/blog/Nextra-vs-Docusaurus)
 <!-- BLOG-POST-LIST:END -->
-
 ---
 
 ## 🎧 Beyond the Code
