@@ -2,20 +2,18 @@
   <img src="images/Banner.png" alt="Banner"/>
 </p>
 
-<h2 align="center">What I Am & What I Build 🧠</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-154f4f?style=for-the-badge&labelColor=123f40" alt="Software Engineer"/>
-  <img src="https://img.shields.io/badge/MSc%20AI%20Student-2b7370?style=for-the-badge&labelColor=1d5f5d" alt="MSc AI Student"/>
-</p>
+<h2 align="center">Software Engineer · MSc in Artificial Intelligence 🧠</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Multi--Agent%20AI-154f4f?style=for-the-badge&labelColor=123f40" alt="Multi-Agent AI"/>
   <img src="https://img.shields.io/badge/AI%20Evaluation-2b7370?style=for-the-badge&labelColor=1d5f5d" alt="AI Evaluation"/>
-  <img src="https://img.shields.io/badge/LLMs-3aa7a1?style=for-the-badge&labelColor=2b7370" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/VLMs-5fc7c1?style=for-the-badge&labelColor=3aa7a1" alt="VLMs"/>
-  <img src="https://img.shields.io/badge/Dev%20Tools-8edbd6?style=for-the-badge&labelColor=52cfc7" alt="Dev Tools"/>
+  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM-3aa7a1?style=for-the-badge&labelColor=2b7370" alt="LLM / VLM"/>
+  <img src="https://img.shields.io/badge/Developer%20Tools-8edbd6?style=for-the-badge&labelColor=52cfc7" alt="Developer Tools"/>
   <img src="https://img.shields.io/badge/Indie%20Research-b9eeee?style=for-the-badge&labelColor=8edbd6" alt="Indie Research"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/I%20ALSO%20LIKE-FRONTEND%20DEVELOPMENT-a6e22e?style=for-the-badge&labelColor=1b1b1d" alt="I also like frontend development"/>
 </p>
 
 ## 💻 Tech Stack
@@ -83,9 +81,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I Created a Complete Educational Guide on AI Music Generation](https://edujbarrios.com/blog/neural-audio-theory-complete-guide)
-- [I Built My Own Documentation Site Builder — Here's Why (and How)](https://www.edujbarrios.com/blog/building-ncmds-documentation-site-builder)
+- [I Built My Own Documentation Site Builder — Here's Why and How](https://www.edujbarrios.com/blog/building-ncmds-documentation-site-builder)
 - [I Built a Notebook Engine for C, and the Potential Is Incredible](https://edujbarrios.com/blog/c-notebook-engine-potential)
 <!-- BLOG-POST-LIST:END -->
+
 ---
 
 ## 🎧 Beyond the Code
@@ -96,12 +95,12 @@
 <br/>
 
 <p align="center">
-  <strong>I'm a Music Producer with 7+ years of experience and global influence:</strong><br/>
+  <strong>Music Producer with 7+ years of experience and global reach.</strong>
 </p>
 
 <p align="center">
   <a href="https://www.edujbarrios.com/music">
-    🎵 Listen!
+    🎵 Listen
   </a>
 </p>
 
@@ -109,7 +108,7 @@
 
 ---
 
-## 🖥 Environment 
+## 🖥 Environment
 
 <details>
   <summary><b>OS & Development</b></summary>
@@ -127,5 +126,3 @@
 </p>
 
 </details>
-
----
