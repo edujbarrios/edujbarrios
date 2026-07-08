@@ -13,8 +13,32 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/I%20ALSO%20LIKE-FRONTEND%20DEVELOPMENT-a6e22e?style=for-the-badge&labelColor=1b1b1d" alt="I also like frontend development"/>
+  <img src="https://img.shields.io/badge/I%20ALSO%20LIKE-FRONTEND%20DEVELOPMENT-0a2540?style=for-the-badge&labelColor=111111" alt="I also like frontend development"/>
 </p>
+
+---
+
+## 📦 Python Packages
+
+<p align="center">
+  <a href="https://pypi.org/project/embedding-drift-lite/">
+    <img src="https://img.shields.io/badge/EMBEDDING--DRIFT--LITE-7c2d12?style=for-the-badge&logoColor=white" alt="embedding-drift-lite"/>
+  </a>
+  <a href="https://pypi.org/project/rag-chunk-audit/">
+    <img src="https://img.shields.io/badge/RAG--CHUNK--AUDIT-854d0e?style=for-the-badge&logoColor=white" alt="rag-chunk-audit"/>
+  </a>
+  <a href="https://pypi.org/project/metaclean-vlm/">
+    <img src="https://img.shields.io/badge/METACLEAN--VLM-166534?style=for-the-badge&logoColor=white" alt="metaclean-vlm"/>
+  </a>
+  <a href="https://pypi.org/project/promptshield-llm/">
+    <img src="https://img.shields.io/badge/PROMPTSHIELD--LLM-1e40af?style=for-the-badge&logoColor=white" alt="promptshield-llm"/>
+  </a>
+  <a href="https://pypi.org/project/trainlens/">
+    <img src="https://img.shields.io/badge/TRAINLENS-581c87?style=for-the-badge&logoColor=white" alt="trainlens"/>
+  </a>
+</p>
+
+---
 
 ## 💻 Tech Stack
 
@@ -49,23 +73,19 @@
 
 <p align="center">
 
-<!-- AI Core -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 
-<!-- Data / Vector -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge)
 
-<!-- Apps -->
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FFB000?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- Docs -->
 ![Quarto](https://img.shields.io/badge/Quarto-39729E?style=for-the-badge)
 ![Docusaurus](https://img.shields.io/badge/Docusaurus-2E8555?style=for-the-badge)
 ![MDX](https://img.shields.io/badge/MDX-1B1F23?style=for-the-badge)
