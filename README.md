@@ -21,6 +21,12 @@
 ## 📦 Python Packages
 
 <p align="center">
+  <a href="https://pypi.org/project/trainlens/">
+    <img src="https://img.shields.io/badge/ACTIVELY%20WORKING%20ON-TRAINLENS-701a75?style=for-the-badge&labelColor=111111" alt="actively working on trainlens"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://pypi.org/project/embedding-drift-lite/">
     <img src="https://img.shields.io/badge/EMBEDDING--DRIFT--LITE-7c2d12?style=for-the-badge&logoColor=white" alt="embedding-drift-lite"/>
   </a>
@@ -32,9 +38,6 @@
   </a>
   <a href="https://pypi.org/project/promptshield-llm/">
     <img src="https://img.shields.io/badge/PROMPTSHIELD--LLM-1e40af?style=for-the-badge&logoColor=white" alt="promptshield-llm"/>
-  </a>
-  <a href="https://pypi.org/project/trainlens/">
-    <img src="https://img.shields.io/badge/TRAINLENS-581c87?style=for-the-badge&logoColor=white" alt="trainlens"/>
   </a>
 </p>
 
