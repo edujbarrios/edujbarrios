@@ -84,14 +84,14 @@
 
 <h2>
   Check my
-  <a href="https://github.com/edujbarrios/edujbarrios-ui">UI component library for AI</a>
+  <a href="https://edujbarrios-ui.vercel.app/">UI component library for AI</a>
 </h2>
 
 <p>
   edujbarrios-ui is a frontend component library for building clean AI interfaces, demos, and developer tools.
 </p>
 
-<a href="https://github.com/edujbarrios/edujbarrios-ui">
+<a href="https://edujbarrios-ui.vercel.app/">
   <img src="https://img.shields.io/badge/AI%20UI-COMPONENT%20LIBRARY-0a2540?style=for-the-badge&labelColor=111111" alt="AI UI component library"/>
 </a>
 
