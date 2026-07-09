@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="images/Banner.png" alt="Banner"/>
 </p>
@@ -20,26 +21,34 @@
 
 ## 📦 Python Packages
 
-<p align="center">
-  <a href="https://pypi.org/project/trainlens/">
-    <img src="https://img.shields.io/badge/ACTIVELY%20WORKING%20ON-TRAINLENS-701a75?style=for-the-badge&labelColor=111111" alt="actively working on trainlens"/>
-  </a>
+<div align="center">
+
+<h2>
+  Actively working on
+  <a href="https://github.com/edujbarrios/trainlens">TrainLens</a>
+</h2>
+
+<p>
+  TrainLens turns AI training runs into research-grade notebook reports, directly inside Jupyter.
 </p>
 
-<p align="center">
-  <a href="https://pypi.org/project/embedding-drift-lite/">
-    <img src="https://img.shields.io/badge/EMBEDDING--DRIFT--LITE-7c2d12?style=for-the-badge&logoColor=white" alt="embedding-drift-lite"/>
-  </a>
-  <a href="https://pypi.org/project/rag-chunk-audit/">
-    <img src="https://img.shields.io/badge/RAG--CHUNK--AUDIT-854d0e?style=for-the-badge&logoColor=white" alt="rag-chunk-audit"/>
-  </a>
-  <a href="https://pypi.org/project/metaclean-vlm/">
-    <img src="https://img.shields.io/badge/METACLEAN--VLM-166534?style=for-the-badge&logoColor=white" alt="metaclean-vlm"/>
-  </a>
-  <a href="https://pypi.org/project/promptshield-llm/">
-    <img src="https://img.shields.io/badge/PROMPTSHIELD--LLM-1e40af?style=for-the-badge&logoColor=white" alt="promptshield-llm"/>
-  </a>
-</p>
+<a href="https://pepy.tech/projects/trainlens">
+  <img src="https://img.shields.io/pepy/dt/trainlens?style=for-the-badge&label=TOTAL%20DOWNLOADS&labelColor=2b7370&color=8edbd6" alt="TrainLens total downloads"/>
+</a>
+
+</div>
+
+<details>
+  <summary><b>Other Python Packages</b></summary>
+
+<br/>
+
+- [embedding-drift-lite](https://pypi.org/project/embedding-drift-lite/): Lightweight utilities for detecting and inspecting embedding distribution drift.
+- [metaclean-vlm](https://pypi.org/project/metaclean-vlm/): Metadata cleaning utilities for image and vision-language model workflows.
+- [promptshield-llm](https://pypi.org/project/promptshield-llm/): Simple checks for prompt injection, unsafe instructions, and LLM input risk.
+- [rag-chunk-audit](https://pypi.org/project/rag-chunk-audit/): Tools for auditing RAG chunks, spotting weak segmentation, and improving retrieval quality.
+
+</details>
 
 ---
 
@@ -104,7 +113,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [I Created a Complete Educational Guide on AI Music Generation](https://edujbarrios.com/blog/neural-audio-theory-complete-guide)
-- [I Built My Own Documentation Site Builder — Here's Why and How](https://www.edujbarrios.com/blog/building-ncmds-documentation-site-builder)
+- [I Built My Own Documentation Site Builder - Here's Why and How](https://www.edujbarrios.com/blog/building-ncmds-documentation-site-builder)
 - [I Built a Notebook Engine for C, and the Potential Is Incredible](https://edujbarrios.com/blog/c-notebook-engine-potential)
 <!-- BLOG-POST-LIST:END -->
 
