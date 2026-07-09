@@ -52,6 +52,31 @@
 
 ---
 
+## 🧠 AI Research
+
+<div align="center">
+
+<h2>
+  Check my
+  <a href="https://github.com/edujbarrios/maverick-oss">cognitive multi-agent pipeline for VLMs</a>
+</h2>
+
+<p>
+  Maverick OSS identifies, describes, critiques, and refines image understanding with four configurable agents for interpretable VLM workflows.
+</p>
+
+<p>
+  Built for visual reasoning, uncertainty handling, and cleaner model-ready image descriptions.
+</p>
+
+<a href="https://github.com/edujbarrios/maverick-oss">
+  <img src="https://img.shields.io/badge/MAVERICK%20OSS-MULTI--AGENT%20VLM-154f4f?style=for-the-badge&labelColor=123f40" alt="Maverick OSS multi-agent VLM"/>
+</a>
+
+</div>
+
+---
+
 ## 🧩 UI Components
 
 <div align="center">
