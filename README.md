@@ -57,8 +57,9 @@
 <div align="center">
 
 <h2>
-  Check my
-  <a href="https://github.com/edujbarrios/maverick-oss">cognitive multi-agent pipeline for VLMs</a>
+  Check
+  <a href="https://github.com/edujbarrios/maverick-oss">MAVERICK</a>,
+  cognitive-based multi-agent pipeline
 </h2>
 
 <p>
