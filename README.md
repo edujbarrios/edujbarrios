@@ -62,15 +62,15 @@
 <h2>
   Check
   <a href="https://github.com/edujbarrios/maverick-oss">MAVERICK</a>,
-  AI research on cognitive multi-agent visual reasoning
+  cognition-inspired AI research for multi-agent visual reasoning
 </h2>
 
 <p>
-  A four-agent VLM pipeline that turns image understanding into an auditable loop: identify, describe, critique, and refine.
+  Inspired by human visual cognition, MAVERICK decomposes image understanding into an auditable four-agent loop: perceive, describe, critique, and refine.
 </p>
 
 <p>
-  Designed for interpretable visual reasoning, uncertainty-aware outputs, and stronger image descriptions.
+  Designed for interpretable VLM workflows, uncertainty-aware reasoning, and stronger model-ready image descriptions.
 </p>
 
 <a href="https://github.com/edujbarrios/maverick-oss">
