@@ -45,9 +45,9 @@
 
 - [embedding-drift-lite](https://pypi.org/project/embedding-drift-lite/): Lightweight utilities for detecting and inspecting embedding distribution drift.
 - [metaclean-vlm](https://pypi.org/project/metaclean-vlm/): Metadata cleaning utilities for image and vision-language model workflows.
-- [visual-patch-audit](https://pypi.org/project/visual-patch-audit/0.1.0/): Utilities for auditing visual patches and inspecting image-level signals in VLM workflows.
 - [promptshield-llm](https://pypi.org/project/promptshield-llm/): Simple checks for prompt injection, unsafe instructions, and LLM input risk.
 - [rag-chunk-audit](https://pypi.org/project/rag-chunk-audit/): Tools for auditing RAG chunks, spotting weak segmentation, and improving retrieval quality.
+- [visual-patch-audit](https://pypi.org/project/visual-patch-audit/0.1.0/): Utilities for auditing visual patches and inspecting image-level signals in VLM workflows.
 
 </details>
 
