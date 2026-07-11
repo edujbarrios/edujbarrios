@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="images/Banner.png" alt="Banner"/>
 </p>
@@ -81,6 +80,32 @@
 
 ---
 
+## 🔦 RAG
+
+<div align="center">
+
+<h2>
+  Explore
+  <a href="https://github.com/edujbarrios/lastlight">LastLight</a>,
+  low-power RAG for offline disaster guidance
+</h2>
+
+<p>
+  LastLight is a tiny local knowledge capsule that searches Markdown knowledge packs, returns sourced passages, and refuses to answer when retrieval confidence is too low.
+</p>
+
+<p>
+  Built for constrained environments with no cloud API, embeddings, vector database, telemetry, package installation, browser, or background service.
+</p>
+
+<a href="https://github.com/edujbarrios/lastlight">
+  <img src="https://img.shields.io/badge/LASTLIGHT-OFFLINE%20RAG-154f4f?style=for-the-badge&labelColor=123f40" alt="LastLight offline RAG"/>
+</a>
+
+</div>
+
+---
+
 ## 🧩 UI Components
 
 <div align="center">
@@ -121,7 +146,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34B00.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 </p>
@@ -201,9 +226,9 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </p>
 
