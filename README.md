@@ -100,9 +100,6 @@
 <a href="https://neural-audio-theory.vercel.app/">
   <img src="https://img.shields.io/badge/NEURAL%20AUDIO%20THEORY-LIVE%20GUIDE-154f4f?style=for-the-badge&labelColor=123f40" alt="Neural Audio Theory live guide"/>
 </a>
-<a href="https://github.com/edujbarrios/neural-audio-theory">
-  <img src="https://img.shields.io/badge/GITHUB-SOURCE%20CODE-0a2540?style=for-the-badge&labelColor=111111&logo=github" alt="Neural Audio Theory source code"/>
-</a>
 
 </div>
 
@@ -172,7 +169,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3172B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34B00.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
