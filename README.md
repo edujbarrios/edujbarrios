@@ -46,6 +46,7 @@
 
 - [embedding-drift-lite](https://pypi.org/project/embedding-drift-lite/): Lightweight utilities for detecting and inspecting embedding distribution drift.
 - [metaclean-vlm](https://pypi.org/project/metaclean-vlm/): Metadata cleaning utilities for image and vision-language model workflows.
+- [parametricbench](https://pypi.org/project/parametricbench/): Lightweight, provider-independent benchmarks for catching LLM and VLM regressions across prompts, models, and generation settings.
 - [promptshield-llm](https://pypi.org/project/promptshield-llm/): Simple checks for prompt injection, unsafe instructions, and LLM input risk.
 - [rag-chunk-audit](https://pypi.org/project/rag-chunk-audit/): Tools for auditing RAG chunks, spotting weak segmentation, and improving retrieval quality.
 - [visual-patch-audit](https://pypi.org/project/visual-patch-audit/0.1.0/): Utilities for auditing visual patches and inspecting image-level signals in VLM workflows.
@@ -74,6 +75,33 @@
 
 <a href="https://github.com/edujbarrios/maverick-oss">
   <img src="https://img.shields.io/badge/MAVERICK%20OSS-MULTI--AGENT%20VLM-154f4f?style=for-the-badge&labelColor=123f40" alt="Maverick OSS multi-agent VLM"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2>
+  Explore
+  <a href="https://neural-audio-theory.vercel.app/">Neural Audio Theory</a>,
+  the engineering foundations behind AI music generation
+</h2>
+
+<p>
+  An open educational project explaining how modern AI music systems work, from signal processing and embeddings to transformer and diffusion architectures, training, and prompt conditioning.
+</p>
+
+<p>
+  Built for developers and researchers who want a technical understanding of the systems behind neural audio and music generation.
+</p>
+
+<a href="https://neural-audio-theory.vercel.app/">
+  <img src="https://img.shields.io/badge/NEURAL%20AUDIO%20THEORY-LIVE%20GUIDE-154f4f?style=for-the-badge&labelColor=123f40" alt="Neural Audio Theory live guide"/>
+</a>
+<a href="https://github.com/edujbarrios/neural-audio-theory">
+  <img src="https://img.shields.io/badge/GITHUB-SOURCE%20CODE-0a2540?style=for-the-badge&labelColor=111111&logo=github" alt="Neural Audio Theory source code"/>
 </a>
 
 </div>
@@ -139,9 +167,9 @@
 ![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=julia&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -225,8 +253,8 @@
 <p align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-999999?style=for-the-badge&logo=apple&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-999999.svg?style=for-the-badge&logo=apple&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
