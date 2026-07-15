@@ -31,7 +31,7 @@
   TrainLens turns AI training runs into research-grade notebook reports, directly inside Jupyter.
 </p>
 
-<a href="https://pepy.tech/projects/trainlens">
+<a href="https://pepy.tech/project/trainlens">
   <img src="https://img.shields.io/pepy/dt/trainlens?style=for-the-badge&label=TOTAL%20DOWNLOADS&labelColor=2b7370&color=8edbd6" alt="TrainLens total downloads"/>
 </a>
 
@@ -39,17 +39,19 @@
 
 <br/>
 
-<details>
-  <summary><b>Other Python Packages</b></summary>
+<details open>
+  <summary><b>More Python Packages</b></summary>
 
 <br/>
 
-- [embedding-drift-lite](https://pypi.org/project/embedding-drift-lite/): Lightweight utilities for detecting and inspecting embedding distribution drift.
-- [metaclean-vlm](https://pypi.org/project/metaclean-vlm/): Metadata cleaning utilities for image and vision-language model workflows.
-- [parametricbench](https://pypi.org/project/parametricbench/): Lightweight, provider-independent benchmarks for catching LLM and VLM regressions across prompts, models, and generation settings.
-- [promptshield-llm](https://pypi.org/project/promptshield-llm/): Simple checks for prompt injection, unsafe instructions, and LLM input risk.
-- [rag-chunk-audit](https://pypi.org/project/rag-chunk-audit/): Tools for auditing RAG chunks, spotting weak segmentation, and improving retrieval quality.
-- [visual-patch-audit](https://pypi.org/project/visual-patch-audit/0.1.0/): Utilities for auditing visual patches and inspecting image-level signals in VLM workflows.
+| Package | Description | Downloads |
+| :-- | :-- | :--: |
+| [**embedding-drift-lite**](https://pypi.org/project/embedding-drift-lite/) | Lightweight utilities for detecting and inspecting embedding distribution drift. | [![embedding-drift-lite downloads](https://img.shields.io/pepy/dt/embedding-drift-lite?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/embedding-drift-lite) |
+| [**metaclean-vlm**](https://pypi.org/project/metaclean-vlm/) | Metadata cleaning utilities for image and vision-language model workflows. | [![metaclean-vlm downloads](https://img.shields.io/pepy/dt/metaclean-vlm?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/metaclean-vlm) |
+| [**parametricbench**](https://pypi.org/project/parametricbench/) | Provider-independent benchmarks for catching LLM and VLM regressions across prompts, models, and generation settings. | [![parametricbench downloads](https://img.shields.io/pepy/dt/parametricbench?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/parametricbench) |
+| [**promptshield-llm**](https://pypi.org/project/promptshield-llm/) | Simple checks for prompt injection, unsafe instructions, and LLM input risk. | [![promptshield-llm downloads](https://img.shields.io/pepy/dt/promptshield-llm?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/promptshield-llm) |
+| [**rag-chunk-audit**](https://pypi.org/project/rag-chunk-audit/) | Tools for auditing RAG chunks, spotting weak segmentation, and improving retrieval quality. | [![rag-chunk-audit downloads](https://img.shields.io/pepy/dt/rag-chunk-audit?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/rag-chunk-audit) |
+| [**visual-patch-audit**](https://pypi.org/project/visual-patch-audit/) | Utilities for auditing visual patches and inspecting image-level signals in VLM workflows. | [![visual-patch-audit downloads](https://img.shields.io/pepy/dt/visual-patch-audit?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/visual-patch-audit) |
 
 </details>
 
