@@ -51,7 +51,9 @@
 | [**parametricbench**](https://pypi.org/project/parametricbench/) | Provider-independent benchmarks for catching LLM and VLM regressions across prompts, models, and generation settings. | [![parametricbench downloads](https://img.shields.io/pepy/dt/parametricbench?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/parametricbench) |
 | [**promptshield-llm**](https://pypi.org/project/promptshield-llm/) | Simple checks for prompt injection, unsafe instructions, and LLM input risk. | [![promptshield-llm downloads](https://img.shields.io/pepy/dt/promptshield-llm?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/promptshield-llm) |
 | [**rag-chunk-audit**](https://pypi.org/project/rag-chunk-audit/) | Tools for auditing RAG chunks, spotting weak segmentation, and improving retrieval quality. | [![rag-chunk-audit downloads](https://img.shields.io/pepy/dt/rag-chunk-audit?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/rag-chunk-audit) |
+| [**text-to-music-prompt-structurer**](https://pypi.org/project/text-to-music-prompt-structurer/)<br/>[![PyPI version](https://img.shields.io/pypi/v/text-to-music-prompt-structurer?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9&cacheSeconds=300)](https://pypi.org/project/text-to-music-prompt-structurer/) | Turn free-form musical ideas into structured prompts for text-to-music workflows. | [![text-to-music-prompt-structurer downloads](https://img.shields.io/pepy/dt/text-to-music-prompt-structurer?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/text-to-music-prompt-structurer) |
 | [**visual-patch-audit**](https://pypi.org/project/visual-patch-audit/) | Utilities for auditing visual patches and inspecting image-level signals in VLM workflows. | [![visual-patch-audit downloads](https://img.shields.io/pepy/dt/visual-patch-audit?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/visual-patch-audit) |
+| [**vlm-occlusion**](https://pypi.org/project/vlm-occlusion/)<br/>[![PyPI version](https://img.shields.io/pypi/v/vlm-occlusion?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9)](https://pypi.org/project/vlm-occlusion/) | Find which image regions influence a VLM claim through grid-based occlusion testing. | [![vlm-occlusion downloads](https://img.shields.io/pepy/dt/vlm-occlusion?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/vlm-occlusion) |
 
 </details>
 
@@ -195,7 +197,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3172C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34B00.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -215,7 +217,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A45FF?style=for-the-badge)
 
