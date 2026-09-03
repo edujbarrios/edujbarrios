@@ -51,6 +51,7 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 
 | Package | Research / engineering focus | Downloads |
 | :-- | :-- | :--: |
+| [**context-dedupy**](https://github.com/edujbarrios/context-dedupy) | Context deduplication for reducing redundant content in LLM and agent workflows. | [![context-dedupy downloads](https://img.shields.io/pepy/dt/context-dedupy?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/context-dedupy) |
 | [**embedding-drift-lite**](https://pypi.org/project/embedding-drift-lite/) | Embedding-distribution drift detection and diagnostic inspection. | [![embedding-drift-lite downloads](https://img.shields.io/pepy/dt/embedding-drift-lite?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/embedding-drift-lite) |
 | [**metaclean-vlm**](https://pypi.org/project/metaclean-vlm/) | Metadata normalization for image and vision-language model datasets. | [![metaclean-vlm downloads](https://img.shields.io/pepy/dt/metaclean-vlm?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/metaclean-vlm) |
 | [**parametricbench**](https://pypi.org/project/parametricbench/) | Provider-independent regression benchmarking for LLM and VLM systems. | [![parametricbench downloads](https://img.shields.io/pepy/dt/parametricbench?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/parametricbench) |
@@ -245,6 +246,7 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Suno Create a Full Film Score?](https://www.edujbarrios.com/blog/can-suno-create-a-full-film-score)
 - [I Created a Complete Educational Guide on AI Music Generation](https://edujbarrios.com/blog/neural-audio-theory-complete-guide)
 - [I Built My Own Documentation Site Builder - Here's Why and How](https://www.edujbarrios.com/blog/building-ncmds-documentation-site-builder)
 - [I Built a Notebook Engine for C, and the Potential Is Incredible](https://edujbarrios.com/blog/c-notebook-engine-potential)
