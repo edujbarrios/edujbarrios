@@ -2,23 +2,22 @@
   <img src="images/Banner.png" alt="Banner"/>
 </p>
 
-<h2 align="center">Software Engineer · MSc in Artificial Intelligence 🧠</h2>
+<h2 align="center">Software Engineer · MSc in AI</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent%20AI-154f4f?style=for-the-badge&labelColor=123f40" alt="Multi-Agent AI"/>
-  <img src="https://img.shields.io/badge/AI%20Evaluation-2b7370?style=for-the-badge&labelColor=1d5f5d" alt="AI Evaluation"/>
-  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM-3aa7a1?style=for-the-badge&labelColor=2b7370" alt="LLM / VLM"/>
-  <img src="https://img.shields.io/badge/Developer%20Tools-8edbd6?style=for-the-badge&labelColor=52cfc7" alt="Developer Tools"/>
-  <img src="https://img.shields.io/badge/Indie%20Research-b9eeee?style=for-the-badge&labelColor=8edbd6" alt="Indie Research"/>
+  <strong>Building practical open-source tools for AI systems.</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/I%20ALSO%20LIKE-FRONTEND%20DEVELOPMENT-0a2540?style=for-the-badge&labelColor=111111" alt="I also like frontend development"/>
+  <img src="https://img.shields.io/badge/AI%20Systems-154f4f?style=for-the-badge&labelColor=123f40" alt="AI Systems"/>
+  <img src="https://img.shields.io/badge/Evaluation%20%26%20Observability-2b7370?style=for-the-badge&labelColor=1d5f5d" alt="Evaluation & Observability"/>
+  <img src="https://img.shields.io/badge/Developer%20Tools-3aa7a1?style=for-the-badge&labelColor=2b7370" alt="Developer Tools"/>
+  <img src="https://img.shields.io/badge/Open%20Source-8edbd6?style=for-the-badge&labelColor=52cfc7" alt="Open Source"/>
 </p>
 
 ---
 
-## 📦 Python Packages
+## 📦 Open-Source AI Tooling
 
 <div align="center">
 
@@ -28,7 +27,11 @@
 </h2>
 
 <p>
-  TrainLens turns AI training runs into research-grade notebook reports, directly inside Jupyter.
+  TrainLens turns AI training runs into auditable, research-grade notebook reports directly inside Jupyter.
+</p>
+
+<p>
+  Deterministic analysis first, with optional LLM explanations when they add value.
 </p>
 
 <a href="https://pepy.tech/project/trainlens">
@@ -44,7 +47,7 @@
 
 <br/>
 
-Research-oriented Python tooling for model evaluation, data quality, retrieval, multimodal analysis, and generative-audio workflows.
+Small, practical Python tools for AI evaluation, data quality, retrieval, multimodal analysis, and generative-audio workflows.
 
 | Package | Research / engineering focus | Downloads |
 | :-- | :-- | :--: |
