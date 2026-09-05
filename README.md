@@ -49,17 +49,36 @@
 
 Small, practical Python tools for AI evaluation, data quality, retrieval, multimodal analysis, and generative-audio workflows.
 
+### Retrieval, Context & Agent Evidence
+
 | Package | Research / engineering focus | Downloads |
 | :-- | :-- | :--: |
-| [**context-dedupy**](https://github.com/edujbarrios/context-dedupy) | Context deduplication for reducing redundant content in LLM and agent workflows. | [![context-dedupy downloads](https://img.shields.io/pepy/dt/context-dedupy?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/context-dedupy) |
+| [**context-dedup**](https://github.com/edujbarrios/context-dedup) | Context deduplication for reducing redundant content in LLM and agent workflows. | [![context-dedup downloads](https://img.shields.io/pepy/dt/context-dedup?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/context-dedup) |
+| [**evidenceflow**](https://github.com/edujbarrios/evidenceflow) | Deterministic analysis of how retrieved and tool-generated evidence propagates through AI-agent traces. | [![evidenceflow downloads](https://img.shields.io/pepy/dt/evidenceflow?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/evidenceflow) |
+| [**rag-chunk-audit**](https://pypi.org/project/rag-chunk-audit/) | RAG chunk-quality auditing for segmentation and retrieval analysis. | [![rag-chunk-audit downloads](https://img.shields.io/pepy/dt/rag-chunk-audit?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/rag-chunk-audit) |
+
+### Evaluation, Regression & Safety
+
+| Package | Research / engineering focus | Downloads |
+| :-- | :-- | :--: |
 | [**embedding-drift-lite**](https://pypi.org/project/embedding-drift-lite/) | Embedding-distribution drift detection and diagnostic inspection. | [![embedding-drift-lite downloads](https://img.shields.io/pepy/dt/embedding-drift-lite?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/embedding-drift-lite) |
-| [**metaclean-vlm**](https://pypi.org/project/metaclean-vlm/) | Metadata normalization for image and vision-language model datasets. | [![metaclean-vlm downloads](https://img.shields.io/pepy/dt/metaclean-vlm?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/metaclean-vlm) |
 | [**parametricbench**](https://pypi.org/project/parametricbench/) | Provider-independent regression benchmarking for LLM and VLM systems. | [![parametricbench downloads](https://img.shields.io/pepy/dt/parametricbench?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/parametricbench) |
 | [**promptshield-llm**](https://pypi.org/project/promptshield-llm/) | Prompt-injection, unsafe-instruction, and input-risk screening for LLM pipelines. | [![promptshield-llm downloads](https://img.shields.io/pepy/dt/promptshield-llm?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/promptshield-llm) |
-| [**rag-chunk-audit**](https://pypi.org/project/rag-chunk-audit/) | RAG chunk-quality auditing for segmentation and retrieval analysis. | [![rag-chunk-audit downloads](https://img.shields.io/pepy/dt/rag-chunk-audit?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/rag-chunk-audit) |
-| [**text-to-music-prompt-structurer**](https://pypi.org/project/text-to-music-prompt-structurer/) | Structured prompt extraction for text-to-music generation workflows. | [![text-to-music-prompt-structurer downloads](https://img.shields.io/pepy/dt/text-to-music-prompt-structurer?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/text-to-music-prompt-structurer) |
+
+### Multimodal & VLM Analysis
+
+| Package | Research / engineering focus | Downloads |
+| :-- | :-- | :--: |
+| [**metaclean-vlm**](https://pypi.org/project/metaclean-vlm/) | Metadata normalization for image and vision-language model datasets. | [![metaclean-vlm downloads](https://img.shields.io/pepy/dt/metaclean-vlm?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/metaclean-vlm) |
 | [**visual-patch-audit**](https://pypi.org/project/visual-patch-audit/) | Image-patch auditing and visual-signal inspection for VLM workflows. | [![visual-patch-audit downloads](https://img.shields.io/pepy/dt/visual-patch-audit?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/visual-patch-audit) |
 | [**vlm-occlusion**](https://pypi.org/project/vlm-occlusion/) | Grid-based black-box occlusion analysis for VLM claim sensitivity. | [![vlm-occlusion downloads](https://img.shields.io/pepy/dt/vlm-occlusion?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/vlm-occlusion) |
+| [**vlm-prior-probe**](https://github.com/edujbarrios/vlm-prior-probe) | Counterfactual black-box evaluation of whether VLMs follow visual evidence or learned priors. | [![vlm-prior-probe downloads](https://img.shields.io/pepy/dt/vlm-prior-probe?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/vlm-prior-probe) |
+
+### Generative Audio
+
+| Package | Research / engineering focus | Downloads |
+| :-- | :-- | :--: |
+| [**text-to-music-prompt-structurer**](https://pypi.org/project/text-to-music-prompt-structurer/) | Structured prompt extraction for text-to-music generation workflows. | [![text-to-music-prompt-structurer downloads](https://img.shields.io/pepy/dt/text-to-music-prompt-structurer?style=flat-square&label=downloads&labelColor=2b7370&color=8edbd6)](https://pepy.tech/project/text-to-music-prompt-structurer) |
 
 </details>
 
