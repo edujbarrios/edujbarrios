@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  🌍 <strong>Open to remote opportunities</strong> in software engineering, AI systems, and developer tooling.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/AI%20Systems-154f4f?style=for-the-badge&labelColor=123f40" alt="AI Systems"/>
   <img src="https://img.shields.io/badge/Evaluation%20%26%20Observability-2b7370?style=for-the-badge&labelColor=1d5f5d" alt="Evaluation & Observability"/>
   <img src="https://img.shields.io/badge/Developer%20Tools-3aa7a1?style=for-the-badge&labelColor=2b7370" alt="Developer Tools"/>
