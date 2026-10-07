@@ -17,15 +17,26 @@
 
 ## 🚧 Active Research & Development
 
+> ### 🧪 [Semauri](https://github.com/edujbarrios/semauri) — experimental controlled-natural-language programming language
+>
+> **Natural to write. Deterministic to run.**
+>
+> Semauri turns a constrained, human-readable language into explicit grammar, typed HIR, lexical scopes, deterministic resolution, effects, and semantic domains. Today it can build typed web documents and JSON Schema, plan capability-gated filesystem workflows, and represent ML workflows while keeping compilation effect-free and execution explicit.
+>
+> ![Semauri status](https://img.shields.io/badge/status-experimental-7c3aed?style=flat-square)
+> ![Semauri version](https://img.shields.io/badge/version-0.13.0-334155?style=flat-square)
+
+<br/>
+
 <div align="center">
 
 <h2>
   <a href="https://github.com/edujbarrios/astscribe">ASTScribe</a>:
-  evidence-backed scientific explanations for ML notebooks, without LLMs
+  static analysis that turns ML code into traceable scientific explanations
 </h2>
 
 <p>
-  A static-analysis toolkit for Python and Jupyter notebooks that turns supported ML operations into deterministic, traceable scientific explanations with source provenance — without API keys, code execution, or telemetry.
+  ASTScribe analyzes Python and Jupyter notebooks without executing them, reconstructing supported ML operations, notebook structure, and dependencies into deterministic explanations backed by source evidence. No LLMs, API keys, code execution, or telemetry.
 </p>
 
 <a href="https://pepy.tech/project/astscribe">
@@ -40,11 +51,11 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/trainlens">TrainLens</a>:
-  Jupyter-native analysis and diagnostics for model-training runs
+  an evidence layer for understanding and improving ML training runs
 </h2>
 
 <p>
-  A Jupyter-first toolkit that reads the metrics and model objects already in your notebook to compare experiments, detect common training problems, and turn run evidence into reproducible reports.
+  TrainLens turns notebook training state into structured evidence about what changed, what went wrong, and what experiment to try next. Its core analysis is deterministic and local-first, with optional agent workflows and LLM-generated reports built on top of that evidence.
 </p>
 
 <a href="https://pepy.tech/project/trainlens">
@@ -59,11 +70,11 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/lastlight">LastLight</a>:
-  low-power, auditable retrieval for disaster and infrastructure-failure scenarios
+  offline retrieval for useful, auditable assistance when infrastructure is unreliable
 </h2>
 
 <p>
-  A stdlib-only Python library that searches local Markdown/ZIP knowledge packs, exposes source passages and ranking metadata, adapts retrieval to resource constraints, and refuses when the available evidence is too weak.
+  LastLight is a stdlib-only retrieval system for local Markdown and ZIP knowledge packs. It works without cloud APIs, embeddings, or vector databases, exposes the source and ranking evidence behind each result, adapts to resource constraints, and refuses answers when local evidence is too weak.
 </p>
 
 <a href="https://pepy.tech/project/lastlight">
