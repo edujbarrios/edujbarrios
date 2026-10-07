@@ -20,6 +20,25 @@
 <div align="center">
 
 <h2>
+  <a href="https://github.com/edujbarrios/astscribe">ASTScribe</a>:
+  evidence-backed scientific explanations for ML notebooks, without LLMs
+</h2>
+
+<p>
+  A static-analysis toolkit for Python and Jupyter notebooks that turns supported ML operations into deterministic, traceable scientific explanations with source provenance — without API keys, code execution, or telemetry.
+</p>
+
+<a href="https://pepy.tech/project/astscribe">
+  <img src="https://api.pepy.tech/badge/astscribe" alt="ASTScribe downloads"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2>
   <a href="https://github.com/edujbarrios/trainlens">TrainLens</a>:
   Jupyter-native analysis and diagnostics for model-training runs
 </h2>
@@ -95,17 +114,53 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 | :-- | :-- | :--: |
 | [**matplotlib-dark**](https://github.com/edujbarrios/matplotlib-dark) | Automatic dark mode for Matplotlib with ready-to-use themes and safe temporary styling. | [![matplotlib-dark downloads](https://api.pepy.tech/badge/matplotlib-dark)](https://pepy.tech/project/matplotlib-dark) |
 
+### Language & Transliteration
+
+| Package | Research / engineering focus | Downloads |
+| :-- | :-- | :--: |
+| [**egypttranslit**](https://github.com/edujbarrios/egypttranslit) | Egyptological transliteration to clean Unicode from Python or the command line, with MdC conversion, normalization, validation, and diagnostics. | [![egypttranslit downloads](https://api.pepy.tech/badge/egypttranslit)](https://pepy.tech/project/egypttranslit) |
+
 ### Generative Audio
 
 | Package | Research / engineering focus | Downloads |
 | :-- | :-- | :--: |
 | [**text-to-music-prompt-structurer**](https://pypi.org/project/text-to-music-prompt-structurer/) | Structured prompt extraction for text-to-music generation workflows. | [![text-to-music-prompt-structurer downloads](https://api.pepy.tech/badge/text-to-music-prompt-structurer)](https://pepy.tech/project/text-to-music-prompt-structurer) |
 
+### R
+
+| Library | Research / engineering focus | Status |
+| :-- | :-- | :--: |
+| [**llm7R**](https://github.com/edujbarrios/llm7R) | Lightweight R client for the LLM7.io API, supporting chat, model discovery, streaming, JSON mode, tool calling, data-frame analysis, vision, and image/video generation. | [![llm7R release](https://img.shields.io/github/v/release/edujbarrios/llm7R?label=release)](https://github.com/edujbarrios/llm7R/releases) |
+
 </details>
 
 ---
 
 ## 🧠 AI Research
+
+<div align="center">
+
+<h2>
+  Explore
+  <a href="https://github.com/edujbarrios/cablegram">Cablegram</a>,
+  token-efficient communication for humans and AI agents
+</h2>
+
+<p>
+  A research-oriented toolkit for minimizing token cost while preserving task-critical meaning through deterministic invariant checks, receiver-aware context, auditable candidate selection, and benchmarking.
+</p>
+
+<p>
+  Maximum meaning. Minimum tokens.
+</p>
+
+<a href="https://github.com/edujbarrios/cablegram">
+  <img src="https://img.shields.io/badge/CABLEGRAM-TOKEN%20EFFICIENCY-154f4f?style=for-the-badge&labelColor=123f40" alt="Cablegram token-efficient communication"/>
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
