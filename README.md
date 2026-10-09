@@ -24,13 +24,17 @@
 <div align="center">
 
 <h2>
-  <a href="https://github.com/edujbarrios/semauri">Semauri</a>:
-  deterministic programming through controlled natural language
+  <a href="https://github.com/edujbarrios/trainlens">TrainLens</a>:
+  ML training diagnostics with actionable next steps
 </h2>
 
 <p>
-  Semauri explores a human-readable programming language with predictable compiler semantics. It generates web documents or JSON Schema, plans filesystem operations, and represents machine-learning workflows through typed constructs. Effectful actions require explicit authorization; compilation itself executes no side effects.
+  TrainLens turns notebook training state into interpretable diagnostics, performance visualizations, and proposals for subsequent experiments. Its deterministic local analysis grounds recommendations in observed evidence. Optional LLM reports or coding-agent integrations extend the workflow.
 </p>
+
+<a href="https://pepy.tech/project/trainlens">
+  <img src="https://api.pepy.tech/badge/trainlens" alt="TrainLens downloads"/>
+</a>
 
 </div>
 
@@ -49,25 +53,6 @@
 
 <a href="https://pepy.tech/project/astscribe">
   <img src="https://api.pepy.tech/badge/astscribe" alt="ASTScribe downloads"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h2>
-  <a href="https://github.com/edujbarrios/trainlens">TrainLens</a>:
-  ML training diagnostics with actionable next steps
-</h2>
-
-<p>
-  TrainLens turns notebook training state into interpretable diagnostics, performance visualizations, and proposals for subsequent experiments. Its deterministic local analysis grounds recommendations in observed evidence. Optional LLM reports or coding-agent integrations extend the workflow.
-</p>
-
-<a href="https://pepy.tech/project/trainlens">
-  <img src="https://api.pepy.tech/badge/trainlens" alt="TrainLens downloads"/>
 </a>
 
 </div>
@@ -102,6 +87,21 @@
 
 <p>
   MiteCoder keeps development work moving while GPUs are occupied by training or other demanding workloads. Compact local models inspect source files, apply workspace-scoped edits, then validate changes through configured checks. An offline CLI plus a local web interface support this early-stage coding agent.
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2>
+  <a href="https://github.com/edujbarrios/semauri">Semauri</a>:
+  deterministic programming through controlled natural language
+</h2>
+
+<p>
+  Semauri explores a human-readable programming language with predictable compiler semantics. It generates web documents or JSON Schema, plans filesystem operations, and represents machine-learning workflows through typed constructs. Effectful actions require explicit authorization; compilation itself executes no side effects.
 </p>
 
 </div>
