@@ -21,14 +21,23 @@
 
 ## 🚧 Active Research & Development
 
-> ### 🧪 [Semauri](https://github.com/edujbarrios/semauri) — experimental controlled-natural-language programming language
->
-> **Natural to write. Deterministic to run.**
->
-> Semauri turns a constrained, human-readable language into explicit grammar, typed HIR, lexical scopes, deterministic resolution, effects, and semantic domains. Today it can build typed web documents and JSON Schema, plan capability-gated filesystem workflows, and represent ML workflows while keeping compilation effect-free and execution explicit.
->
-> ![Semauri status](https://img.shields.io/badge/status-experimental-7c3aed?style=flat-square)
-> ![Semauri version](https://img.shields.io/badge/version-0.13.0-334155?style=flat-square)
+<div align="center">
+
+<h2>
+  <a href="https://github.com/edujbarrios/semauri">Semauri</a>:
+  an experimental controlled-natural-language programming language
+</h2>
+
+<p>
+  Semauri translates constrained, human-readable source code into a typed intermediate representation with lexical scopes, deterministic resolution, and explicit effects. It can render HTML and JSON Schema, plan filesystem operations, and represent ML workflows as typed plans. Compilation is effect-free; running side effects requires explicit authorization.
+</p>
+
+<a href="https://github.com/edujbarrios/semauri/releases">
+  <img src="https://img.shields.io/badge/status-experimental-7c3aed?style=flat-square" alt="Semauri experimental status"/>
+  <img src="https://img.shields.io/badge/version-0.15.0-334155?style=flat-square" alt="Semauri version 0.15.0"/>
+</a>
+
+</div>
 
 <br/>
 
@@ -36,11 +45,11 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/astscribe">ASTScribe</a>:
-  static analysis that turns ML code into traceable scientific explanations
+  evidence-backed explanations of ML code and Jupyter notebooks
 </h2>
 
 <p>
-  ASTScribe analyzes Python and Jupyter notebooks without executing them, reconstructing supported ML operations, notebook structure, and dependencies into deterministic explanations backed by source evidence. No LLMs, API keys, code execution, or telemetry.
+  ASTScribe uses deterministic static analysis to explain supported PyTorch, Transformers, Datasets, and PEFT operations in Python code and Jupyter notebooks. It produces source-linked methodology reports, cell dependency and impact analysis, and diagnostics through a CLI or directly inside Jupyter. It does not execute the analyzed code or infer experimental results.
 </p>
 
 <a href="https://pepy.tech/project/astscribe">
@@ -83,6 +92,25 @@
 
 <a href="https://pepy.tech/project/lastlight">
   <img src="https://api.pepy.tech/badge/lastlight" alt="LastLight downloads"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2>
+  <a href="https://github.com/edujbarrios/MiteCoder">MiteCoder</a>:
+  a CPU-first local coding agent for resource-constrained development
+</h2>
+
+<p>
+  MiteCoder uses small local language models to inspect code and notebooks, answer questions, edit workspace files, and verify changes with configured checks. Designed to keep assisting while the GPU is busy, it runs offline with limited CPU and RAM resources, offering a CLI and a local web interface. It is in early development.
+</p>
+
+<a href="https://github.com/edujbarrios/MiteCoder">
+  <img src="https://img.shields.io/badge/status-early%20development-334155?style=flat-square" alt="MiteCoder early development status"/>
 </a>
 
 </div>
@@ -141,13 +169,17 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 | :-- | :-- | :--: |
 | [**text-to-music-prompt-structurer**](https://pypi.org/project/text-to-music-prompt-structurer/) | Structured prompt extraction for text-to-music generation workflows. | [![text-to-music-prompt-structurer downloads](https://api.pepy.tech/badge/text-to-music-prompt-structurer)](https://pepy.tech/project/text-to-music-prompt-structurer) |
 
-### R
-
-| Library | Research / engineering focus | Status |
-| :-- | :-- | :--: |
-| [**llm7R**](https://github.com/edujbarrios/llm7R) | Lightweight R client for the LLM7.io API, supporting chat, model discovery, streaming, JSON mode, tool calling, data-frame analysis, vision, and image/video generation. | [![llm7R release](https://img.shields.io/github/v/release/edujbarrios/llm7R?label=release)](https://github.com/edujbarrios/llm7R/releases) |
 
 </details>
+
+---
+
+## 🔌 APIs
+
+| Library | Language | Focus |
+| :-- | :-- | :-- |
+| [**llm7R**](https://github.com/edujbarrios/llm7R) | R | Lightweight client for the LLM7.io API, with chat, streaming, model discovery, JSON mode, tool calling, data-frame analysis, vision, and image/video generation. [![llm7R release](https://img.shields.io/github/v/release/edujbarrios/llm7R?label=release)](https://github.com/edujbarrios/llm7R/releases) |
+| [**llm-ts-api-wrapper**](https://github.com/edujbarrios/llm-ts-api-wrapper) | TypeScript | Zero-runtime-dependency client for OpenAI-compatible APIs, covering chat and Responses APIs, streaming, embeddings, models, tool calling, retries, timeouts, and typed errors. Designed for direct source integration; not published on npm. |
 
 ---
 
