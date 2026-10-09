@@ -25,11 +25,11 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/semauri">Semauri</a>:
-  controlled-natural-language programming with explicit execution safeguards
+  deterministic programming through controlled natural language
 </h2>
 
 <p>
-  Semauri explores a more accessible approach to programming without sacrificing predictable semantics. Its human-readable syntax compiles into a typed representation with deterministic name resolution and explicit effect controls, supporting HTML and JSON Schema generation, filesystem workflows, and machine-learning plans. Side effects require authorization before execution.
+  Semauri explores a human-readable programming language with predictable compiler semantics. It generates web documents or JSON Schema, plans filesystem operations, and represents machine-learning workflows through typed constructs. Effectful actions require explicit authorization; compilation itself executes no side effects.
 </p>
 
 </div>
@@ -40,11 +40,11 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/astscribe">ASTScribe</a>:
-  source-grounded analysis and documentation of ML experiments
+  traceable scientific explanations for ML notebooks
 </h2>
 
 <p>
-  ASTScribe helps engineers and researchers understand unfamiliar machine-learning code and Jupyter notebooks. Through deterministic static analysis, it identifies supported training and inference patterns, reconstructs methodology and cell dependencies, and links findings to original source lines. No code execution or LLM service is required.
+  ASTScribe transforms supported Python ML code or Jupyter notebooks into evidence-backed methodological explanations. Static analysis identifies training or inference patterns, reconstructs cell dependencies, then traces findings to their original source lines—without executing code or relying on an LLM.
 </p>
 
 <a href="https://pepy.tech/project/astscribe">
@@ -59,11 +59,11 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/trainlens">TrainLens</a>:
-  training diagnostics and evidence-driven experiment planning
+  ML training diagnostics with actionable next steps
 </h2>
 
 <p>
-  TrainLens supports informed decisions throughout model development by analyzing notebook training state, highlighting diagnostic signals, and visualizing performance. Its local, deterministic analysis provides a foundation for actionable reports and verifiable experiment plans, complemented by optional LLM reporting and integrations with coding agents.
+  TrainLens turns notebook training state into interpretable diagnostics, performance visualizations, and proposals for subsequent experiments. Its deterministic local analysis grounds recommendations in observed evidence. Optional LLM reports or coding-agent integrations extend the workflow.
 </p>
 
 <a href="https://pepy.tech/project/trainlens">
@@ -78,11 +78,11 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/lastlight">LastLight</a>:
-  auditable offline knowledge retrieval for constrained environments
+  offline knowledge retrieval with verifiable sources
 </h2>
 
 <p>
-  LastLight maintains access to local knowledge when network connectivity or computing resources are limited. Built entirely on the Python standard library, it retrieves relevant passages from Markdown and ZIP collections, makes source and ranking evidence inspectable, and declines answers that lack sufficient support—without cloud APIs, embeddings, or vector databases.
+  LastLight makes locally stored knowledge accessible when connectivity or infrastructure is unreliable. Its standard-library Python engine searches Markdown or ZIP collections, exposes the evidence behind each result, then withholds answers when support is insufficient. No cloud services, embeddings or vector database required.
 </p>
 
 <a href="https://pepy.tech/project/lastlight">
@@ -97,11 +97,11 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/MiteCoder">MiteCoder</a>:
-  CPU-first coding assistance with compact local language models
+  CPU-first coding assistance for resource-constrained workstations
 </h2>
 
 <p>
-  MiteCoder brings programming assistance to offline workstations with limited available compute, including systems whose GPUs are occupied by other workloads. Using small local models, it inspects code and notebooks, makes workspace-scoped edits, and validates changes against configured checks through a CLI or local web interface. The project is in early development.
+  MiteCoder keeps development work moving while GPUs are occupied by training or other demanding workloads. Compact local models inspect source files, apply workspace-scoped edits, then validate changes through configured checks. An offline CLI plus a local web interface support this early-stage coding agent.
 </p>
 
 </div>
