@@ -44,7 +44,7 @@
 
 <h2>
   <a href="https://github.com/edujbarrios/astscribe">ASTScribe</a>:
-  traceable scientific explanations for ML notebooks
+  trace model setup, training, evaluation, and cell dependencies in ML notebooks
 </h2>
 
 <p>
