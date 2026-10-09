@@ -32,11 +32,6 @@
   Semauri translates constrained, human-readable source code into a typed intermediate representation with lexical scopes, deterministic resolution, and explicit effects. It can render HTML and JSON Schema, plan filesystem operations, and represent ML workflows as typed plans. Compilation is effect-free; running side effects requires explicit authorization.
 </p>
 
-<a href="https://github.com/edujbarrios/semauri/releases">
-  <img src="https://img.shields.io/badge/status-experimental-7c3aed?style=flat-square" alt="Semauri experimental status"/>
-  <img src="https://img.shields.io/badge/version-0.15.0-334155?style=flat-square" alt="Semauri version 0.15.0"/>
-</a>
-
 </div>
 
 <br/>
@@ -108,10 +103,6 @@
 <p>
   MiteCoder uses small local language models to inspect code and notebooks, answer questions, edit workspace files, and verify changes with configured checks. Designed to keep assisting while the GPU is busy, it runs offline with limited CPU and RAM resources, offering a CLI and a local web interface. It is in early development.
 </p>
-
-<a href="https://github.com/edujbarrios/MiteCoder">
-  <img src="https://img.shields.io/badge/status-early%20development-334155?style=flat-square" alt="MiteCoder early development status"/>
-</a>
 
 </div>
 
