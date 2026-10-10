@@ -384,7 +384,6 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Suno Create a Full Film Score?](https://www.edujbarrios.com/blog/can-suno-create-a-full-film-score)
 - [I Created a Complete Educational Guide on AI Music Generation](https://edujbarrios.com/blog/neural-audio-theory-complete-guide)
 - [I Built My Own Documentation Site Builder - Here's Why and How](https://www.edujbarrios.com/blog/building-ncmds-documentation-site-builder)
 - [I Built a Notebook Engine for C, and the Potential Is Incredible](https://edujbarrios.com/blog/c-notebook-engine-potential)
