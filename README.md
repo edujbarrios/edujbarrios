@@ -96,12 +96,12 @@
 <div align="center">
 
 <h2>
-  <a href="https://github.com/edujbarrios/larva">Larva</a>:
+  <a href="https://github.com/edujbarrios/laruva">Laruva</a>:
   new project under active development
 </h2>
 
 <p>
-  Larva is my newest project, currently under active development.
+  Laruva is my newest project, currently under active development.
 </p>
 
 </div>
