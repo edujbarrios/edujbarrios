@@ -96,12 +96,12 @@
 <div align="center">
 
 <h2>
-  <a href="https://github.com/edujbarrios/laruva">Laruva</a>:
-  new project under active development
+  <a href="https://github.com/edujbarrios/liruva">LIRUVA</a>:
+  Make music. Freely. — an open-source DAW built in Rust
 </h2>
 
 <p>
-  Laruva is my newest project, currently under active development.
+  LIRUVA is an early-stage, free and open-source digital audio workstation developed in Rust. Its development branches introduce a native desktop interface, a 16-step drum sequencer with real synthesized audio, and local project saving. Built for approachable, offline-first music production without subscriptions; it is still a prototype, not a full DAW.
 </p>
 
 </div>
