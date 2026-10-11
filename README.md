@@ -81,12 +81,12 @@
 <div align="center">
 
 <h2>
-  <a href="https://github.com/edujbarrios/MiteCoder">MiteCoder</a>:
-  CPU-first coding assistance for resource-constrained workstations
+  <a href="https://github.com/edujbarrios/semauri">Semauri</a>:
+  deterministic programming through controlled natural language
 </h2>
 
 <p>
-  MiteCoder keeps development work moving while GPUs are occupied by training or other demanding workloads. Compact local models inspect source files, apply workspace-scoped edits, then validate changes through configured checks. An offline CLI plus a local web interface support this early-stage coding agent.
+  Semauri explores a human-readable programming language with predictable compiler semantics. It generates web documents or JSON Schema, plans filesystem operations, and represents machine-learning workflows through typed constructs. Effectful actions require explicit authorization; compilation itself executes no side effects.
 </p>
 
 </div>
@@ -96,12 +96,12 @@
 <div align="center">
 
 <h2>
-  <a href="https://github.com/edujbarrios/semauri">Semauri</a>:
-  deterministic programming through controlled natural language
+  <a href="https://github.com/edujbarrios/larva">Larva</a>:
+  new project under active development
 </h2>
 
 <p>
-  Semauri explores a human-readable programming language with predictable compiler semantics. It generates web documents or JSON Schema, plans filesystem operations, and represents machine-learning workflows through typed constructs. Effectful actions require explicit authorization; compilation itself executes no side effects.
+  Larva is my newest project, currently under active development.
 </p>
 
 </div>
