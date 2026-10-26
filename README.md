@@ -21,77 +21,14 @@
 
 ## 🚧 Active Research & Development
 
-<div align="center">
+**Building systems that make software and AI more readable, reliable, and verifiable.**
 
-<h2>
-  <a href="https://github.com/edujbarrios/semauri">Semauri</a>:
-  a statically typed programming language with readable syntax
-</h2>
-
-<p>
-  Semauri is a statically typed programming language with approachable, English-like syntax and a Rust compiler. It runs programs with explicitly authorized console and filesystem operations, generates HTML and JSON Schema, and produces inspectable, typed ML workflow plans rather than executing model training. The compiler includes source-aware diagnostics, optimization, and effect analysis.
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h2>
-  <a href="https://github.com/edujbarrios/trainlens">TrainLens</a>:
-  ML training diagnostics with actionable next steps
-</h2>
-
-<p>
-  TrainLens turns notebook training state into interpretable diagnostics, performance visualizations, and proposals for subsequent experiments. Its deterministic local analysis grounds recommendations in observed evidence. Optional LLM reports or coding-agent integrations extend the workflow.
-</p>
-
-<a href="https://pepy.tech/project/trainlens">
-  <img src="https://api.pepy.tech/badge/trainlens" alt="TrainLens downloads"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h2>
-  <a href="https://github.com/edujbarrios/astscribe">ASTScribe</a>:
-  trace model setup, training, evaluation, and cell dependencies in ML notebooks
-</h2>
-
-<p>
-  ASTScribe transforms supported Python ML code or Jupyter notebooks into evidence-backed methodological explanations. Static analysis identifies training or inference patterns, reconstructs cell dependencies, then traces findings to their original source lines—without executing code or relying on an LLM.
-</p>
-
-<a href="https://pepy.tech/project/astscribe">
-  <img src="https://api.pepy.tech/badge/astscribe" alt="ASTScribe downloads"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<h2>
-  <a href="https://github.com/edujbarrios/lastlight">LastLight</a>:
-  offline knowledge retrieval with verifiable sources
-</h2>
-
-<p>
-  LastLight makes locally stored knowledge accessible when connectivity or infrastructure is unreliable. Its standard-library Python engine searches Markdown or ZIP collections, exposes the evidence behind each result, then withholds answers when support is insufficient. No cloud services, embeddings or vector database required.
-</p>
-
-<a href="https://pepy.tech/project/lastlight">
-  <img src="https://api.pepy.tech/badge/lastlight" alt="LastLight downloads"/>
-</a>
-
-</div>
-
-
+| Project | What makes it different |
+| :-- | :-- |
+| **[Semauri](https://github.com/edujbarrios/semauri)**<br/><sub>PROGRAMMING LANGUAGE · RUST</sub> | **Write clearly. Compile confidently.** A statically typed language with an original Rust compiler, explicit effect permissions, HTML/JSON Schema generation, and inspectable ML workflow plans. |
+| **[TrainLens](https://github.com/edujbarrios/trainlens)**<br/><sub>ML TRAINING · PYTHON</sub><br/>[![TrainLens downloads](https://api.pepy.tech/badge/trainlens)](https://pepy.tech/project/trainlens) | **Turn training runs into next experiments.** Deterministic notebook diagnostics, visualizations, and evidence-backed recommendations, with optional LLM and agent workflows. |
+| **[ASTScribe](https://github.com/edujbarrios/astscribe)**<br/><sub>ML NOTEBOOK ANALYSIS · PYTHON</sub><br/>[![ASTScribe downloads](https://api.pepy.tech/badge/astscribe)](https://pepy.tech/project/astscribe) | **Understand ML notebooks without executing them.** Static analysis traces model setup, training, evaluation, and cell dependencies back to their original source lines. |
+| **[LastLight](https://github.com/edujbarrios/lastlight)**<br/><sub>OFFLINE RETRIEVAL · PYTHON</sub><br/>[![LastLight downloads](https://api.pepy.tech/badge/lastlight)](https://pepy.tech/project/lastlight) | **Reliable retrieval when infrastructure fails.** Standard-library-only, offline knowledge search with inspectable sources and evidence-based refusal—no cloud, embeddings, or vector database. |
 
 ---
 
