@@ -120,6 +120,7 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 | Project | Research focus |
 | :-- | :-- |
 | [**Cablegram**](https://github.com/edujbarrios/cablegram) | Token-efficient communication for humans and AI agents, with auditable context compression and invariant checks. |
+| [**NEXO**](https://github.com/edujbarrios/nexo) | Versioned communication protocol for AI agents, with reversible text/binary encoding, capability negotiation, media transfer, and token-aware JSON fallback. |
 | [**Suffice**](https://github.com/edujbarrios/suffice) | Finding the minimum successful token budgets for AI agents under explicit quality constraints. |
 | [**MAVERICK**](https://github.com/edujbarrios/maverick-oss) | Cognition-inspired, multi-agent visual reasoning with an interpretable perceive–describe–critique–refine loop. |
 | [**music-to-text**](https://github.com/edujbarrios/music-to-text) | Local-first audio analysis: acoustic feature extraction, structured metadata, A&R notes, PR pitches, playlist descriptions, and sync licensing copy. |
