@@ -25,10 +25,10 @@
 
 | Project | What makes it different |
 | :-- | :-- |
-| **[Semauri](https://github.com/edujbarrios/semauri)**<br/><sub>PROGRAMMING LANGUAGE · RUST</sub> | **Write clearly. Compile confidently.** A statically typed language with an original Rust compiler, explicit effect permissions, HTML/JSON Schema generation, and inspectable ML workflow plans. |
-| **[TrainLens](https://github.com/edujbarrios/trainlens)**<br/><sub>ML TRAINING · PYTHON</sub><br/>[![TrainLens downloads](https://api.pepy.tech/badge/trainlens)](https://pepy.tech/project/trainlens) | **Turn training runs into next experiments.** Deterministic notebook diagnostics, visualizations, and evidence-backed recommendations, with optional LLM and agent workflows. |
-| **[ASTScribe](https://github.com/edujbarrios/astscribe)**<br/><sub>ML NOTEBOOK ANALYSIS · PYTHON</sub><br/>[![ASTScribe downloads](https://api.pepy.tech/badge/astscribe)](https://pepy.tech/project/astscribe) | **Understand ML notebooks without executing them.** Static analysis traces model setup, training, evaluation, and cell dependencies back to their original source lines. |
-| **[LastLight](https://github.com/edujbarrios/lastlight)**<br/><sub>OFFLINE RETRIEVAL · PYTHON</sub><br/>[![LastLight downloads](https://api.pepy.tech/badge/lastlight)](https://pepy.tech/project/lastlight) | **Reliable retrieval when infrastructure fails.** Standard-library-only, offline knowledge search with inspectable sources and evidence-based refusal—no cloud, embeddings, or vector database. |
+| **[Semauri](https://github.com/edujbarrios/semauri)** | **A real programming language, engineered from the ground up.** Semauri brings static typing to natural-language-inspired syntax, with its own Rust compiler, executable programs, source-aware diagnostics, and explicitly controlled side effects. |
+| **[TrainLens](https://github.com/edujbarrios/trainlens)** | **Turn training runs into next experiments.** Deterministic notebook diagnostics, visualizations, and evidence-backed recommendations, with optional LLM and agent workflows.<br/><br/>[![TrainLens downloads](https://api.pepy.tech/badge/trainlens)](https://pepy.tech/project/trainlens) |
+| **[ASTScribe](https://github.com/edujbarrios/astscribe)** | **Understand ML notebooks without executing them.** Static analysis traces model setup, training, evaluation, and cell dependencies back to their original source lines.<br/><br/>[![ASTScribe downloads](https://api.pepy.tech/badge/astscribe)](https://pepy.tech/project/astscribe) |
+| **[LastLight](https://github.com/edujbarrios/lastlight)** | **Reliable retrieval when infrastructure fails.** Standard-library-only, offline knowledge search with inspectable sources and evidence-based refusal—no cloud, embeddings, or vector database.<br/><br/>[![LastLight downloads](https://api.pepy.tech/badge/lastlight)](https://pepy.tech/project/lastlight) |
 
 ---
 
