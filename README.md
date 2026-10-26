@@ -105,17 +105,6 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 
 ---
 
-## 🧠 AI Research
-
-| Project | Research focus |
-| :-- | :-- |
-| [**Cablegram**](https://github.com/edujbarrios/cablegram) | Token-efficient communication for humans and AI agents, with auditable context compression and invariant checks. |
-| [**Suffice**](https://github.com/edujbarrios/suffice) | Finding the minimum successful token budgets for AI agents under explicit quality constraints. |
-| [**MAVERICK**](https://github.com/edujbarrios/maverick-oss) | Cognition-inspired, multi-agent visual reasoning with an interpretable perceive–describe–critique–refine loop. |
-| [**music-to-text**](https://github.com/edujbarrios/music-to-text) | Local-first audio feature extraction and structured music metadata and industry copy generation. |
-
----
-
 ## 📚 Educational Guides
 
 | Guide | What's inside |
@@ -123,6 +112,17 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 | [**Neural Audio Theory**](https://github.com/edujbarrios/neural-audio-theory) | A practical and technical guide to AI music generation, signal processing, embeddings, model architectures and training. [Live guide](https://neural-audio-theory.vercel.app/). |
 | [**edujbarrios-ai**](https://github.com/edujbarrios/edujbarrios-ai) | AI algorithms from scratch in C, Python, Rust and R, with explanations, documented implementations and tests. |
 | [**edujbarrios-ui**](https://github.com/edujbarrios/edujbarrios-ui) | A compendium of copy-ready React and TypeScript frontend components for AI products, dashboards and developer tools. [Component gallery](https://edujbarrios-ui.vercel.app/). |
+
+---
+
+## 🧠 AI Research
+
+| Project | Research focus |
+| :-- | :-- |
+| [**Cablegram**](https://github.com/edujbarrios/cablegram) | Token-efficient communication for humans and AI agents, with auditable context compression and invariant checks. |
+| [**Suffice**](https://github.com/edujbarrios/suffice) | Finding the minimum successful token budgets for AI agents under explicit quality constraints. |
+| [**MAVERICK**](https://github.com/edujbarrios/maverick-oss) | Cognition-inspired, multi-agent visual reasoning with an interpretable perceive–describe–critique–refine loop. |
+| [**music-to-text**](https://github.com/edujbarrios/music-to-text) | Local-first audio analysis: acoustic feature extraction, structured metadata, A&R notes, PR pitches, playlist descriptions, and sync licensing copy. |
 
 ---
 
