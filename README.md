@@ -25,10 +25,26 @@
 
 | Project | What makes it different |
 | :-- | :-- |
-| **[Semauri](https://github.com/edujbarrios/semauri)** | **A real programming language, engineered from the ground up.** Semauri brings static typing to natural-language-inspired syntax, with its own Rust compiler, executable programs, source-aware diagnostics, and explicitly controlled side effects. |
+| **[Semauri.](https://github.com/edujbarrios/semauri)** | **Where human language meets programming.** A natural-language-inspired, type-safe language bridging human creativity and AI-powered development, with a Rust compiler, source-aware diagnostics, and explicit control over side effects. |
 | **[TrainLens](https://github.com/edujbarrios/trainlens)** | **Turn training runs into next experiments.** Deterministic notebook diagnostics, visualizations, and evidence-backed recommendations, with optional LLM and agent workflows.<br/><br/>[![TrainLens downloads](https://api.pepy.tech/badge/trainlens)](https://pepy.tech/project/trainlens) |
 | **[ASTScribe](https://github.com/edujbarrios/astscribe)** | **Understand ML notebooks without executing them.** Static analysis traces model setup, training, evaluation, and cell dependencies back to their original source lines.<br/><br/>[![ASTScribe downloads](https://api.pepy.tech/badge/astscribe)](https://pepy.tech/project/astscribe) |
 | **[LastLight](https://github.com/edujbarrios/lastlight)** | **Reliable retrieval when infrastructure fails.** Standard-library-only, offline knowledge search with inspectable sources and evidence-based refusal—no cloud, embeddings, or vector database.<br/><br/>[![LastLight downloads](https://api.pepy.tech/badge/lastlight)](https://pepy.tech/project/lastlight) |
+
+---
+
+## ✨ Also, I built the most unnecessary Python library you'll probably end up using
+
+**[EmDashify](https://github.com/edujbarrios/EmDashify)** — because typing `--` and getting a proper em dash (`—`) should be a solved problem. Tiny, slightly absurd, surprisingly useful: works with text, Markdown, and Word documents.
+
+`pip install emdashify` · [PyPI](https://pypi.org/project/emdashify/) · [![EmDashify downloads](https://api.pepy.tech/badge/emdashify)](https://pepy.tech/project/emdashify)
+
+---
+
+## 🧾 Data Extraction & Reproducible Datasets
+
+| Project | Focus |
+| :-- | :-- |
+| [**Medicine Pack Extractor**](https://github.com/edujbarrios/medicine-pack-extractor) | Reproducible Python/Jupyter pipeline that extracts official medicine documents from Spain (AEMPS/CIMA) and Italy (AIFA), preserves provenance, and builds bilingual knowledge packs for [LastLight](https://github.com/edujbarrios/lastlight). For retrieval research—not medical advice. |
 
 ---
 
@@ -123,6 +139,7 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 | [**NEXO**](https://github.com/edujbarrios/nexo) | Versioned communication protocol for AI agents, with reversible text/binary encoding, capability negotiation, media transfer, and token-aware JSON fallback. |
 | [**Suffice**](https://github.com/edujbarrios/suffice) | Finding the minimum successful token budgets for AI agents under explicit quality constraints. |
 | [**MAVERICK**](https://github.com/edujbarrios/maverick-oss) | Cognition-inspired, multi-agent visual reasoning with an interpretable perceive–describe–critique–refine loop. |
+| [**MOSS-VL MCP**](https://github.com/edujbarrios/moss-vl-mcp) | Experimental, unofficial MCP server bringing MOSS-VL visual observations to coding agents for screenshots, UI comparisons and test recordings. Requires a separately configured inference backend for visual analysis. |
 | [**music-to-text**](https://github.com/edujbarrios/music-to-text) | Local-first audio analysis: acoustic feature extraction, structured metadata, A&R notes, PR pitches, playlist descriptions, and sync licensing copy. |
 
 ---
