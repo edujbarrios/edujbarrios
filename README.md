@@ -105,22 +105,6 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 
 ---
 
-## 🔌 APIs
-
-<details>
-  <summary><b>API Clients</b></summary>
-
-<br/>
-
-| Library | Language | Focus |
-| :-- | :-- | :-- |
-| [**llm7R**](https://github.com/edujbarrios/llm7R) | R | Lightweight client for the LLM7.io API, with chat, streaming, model discovery, JSON mode, tool calling, data-frame analysis, vision, and image/video generation. |
-| [**llm-ts-api-wrapper**](https://github.com/edujbarrios/llm-ts-api-wrapper) | TypeScript | Zero-runtime-dependency client for OpenAI-compatible APIs, covering chat and Responses APIs, streaming, embeddings, models, tool calling, retries, timeouts, and typed errors. Designed for direct source integration; not published on npm. |
-
-</details>
-
----
-
 ## 📚 Educational Guides
 
 | Guide | What's inside |
@@ -149,6 +133,24 @@ Small, practical Python tools for AI evaluation, data quality, retrieval, multim
 | Benchmark | Evaluation focus |
 | :-- | :-- |
 | [**LastLight Bench**](https://github.com/edujbarrios/lastlight-bench) | Reproducible offline retrieval evaluation: ranking, answer/refusal calibration, bilingual behavior, routing, latency and memory usage. |
+
+---
+
+## 🔌 Last but not least… APIs
+
+A couple of lightweight API clients worth keeping in the toolbox.
+
+<details>
+  <summary><b>API Clients</b></summary>
+
+<br/>
+
+| Library | Language | Focus |
+| :-- | :-- | :-- |
+| [**llm7R**](https://github.com/edujbarrios/llm7R) | R | Lightweight client for the LLM7.io API, with chat, streaming, model discovery, JSON mode, tool calling, data-frame analysis, vision, and image/video generation. |
+| [**llm-ts-api-wrapper**](https://github.com/edujbarrios/llm-ts-api-wrapper) | TypeScript | Zero-runtime-dependency client for OpenAI-compatible APIs, covering chat and Responses APIs, streaming, embeddings, models, tool calling, retries, timeouts, and typed errors. Designed for direct source integration; not published on npm. |
+
+</details>
 
 ---
 
