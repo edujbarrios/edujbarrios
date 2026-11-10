@@ -34,9 +34,25 @@
 
 ## ✨ Also, I built the most unnecessary Python library you'll probably end up using
 
-**[EmDashify](https://github.com/edujbarrios/EmDashify)** — because typing `--` and getting a proper em dash (`—`) should be a solved problem. Tiny, slightly absurd, surprisingly useful: works with text, Markdown, and Word documents.
+### [EmDashify](https://github.com/edujbarrios/EmDashify)
 
-`pip install emdashify` · [PyPI](https://pypi.org/project/emdashify/) · [![EmDashify downloads](https://api.pepy.tech/badge/emdashify)](https://pepy.tech/project/emdashify)
+A tiny, slightly absurd, surprisingly useful Python library: turn `--` into a proper em dash (`—`) in text, Markdown, and Word documents. Because the little things matter.
+
+[![PyPI](https://img.shields.io/pypi/v/emdashify?label=PyPI&color=3775A9)](https://pypi.org/project/emdashify/)
+[![Python](https://img.shields.io/pypi/pyversions/emdashify?label=Python&color=306998)](https://pypi.org/project/emdashify/)
+[![Downloads](https://api.pepy.tech/badge/emdashify)](https://pepy.tech/project/emdashify)
+
+**Try it!**
+
+```bash
+pip install emdashify
+```
+
+```python
+from emdashify import convert
+
+convert("Hello -- world", compact=False)  # 'Hello — world'
+```
 
 ---
 
